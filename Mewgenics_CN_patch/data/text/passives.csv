@@ -421,7 +421,7 @@ Dein Grundangriff verursacht Verwirrung&nbsp;1.","Quando usi il tuo attacco base
 Il tuo attacco base infligge Confusione 1.","Ao utilizar seu ataque básico, vire-se e o utilize novamente.
 Seu ataque básico aplica confusão 1.","当你使用基础攻击时，
 转身再使用一次。
-你的基础攻击会造成1层混乱。"
+你的基础攻击会造成1层困惑。"
 PASSIVE_JESTERSSOUL_NAME,Jester's Soul,,Alma de bufón,Âme de Joker,Seele des Narren,Anima del Giullare,Alma de Curinga,小丑之魂
 PASSIVE_JESTERSSOUL_DESC,"Abilities from any class are offered when you level up.
 You can reroll your level up options twice.",,"Se ofrecen habilidades de todas las clases al subir de nivel.
@@ -454,7 +454,7 @@ PASSIVE_SAFESWITCHING_DESC,"When you switch stances, gain +2 [img:shield].",,"Al
 PASSIVE_SAFESWITCHING2_DESC,"When you switch stances, gain +3 [img:shield] and cleanse one stack of a random debuff.",,"Al cambiar de postura, obtiene +3 [img:shield] y elimina una acumulación de una desventaja al azar.",Quand vous changez de posture&nbsp;: [img:shield]&nbsp;+3&nbsp;et dissipe un cumul de malus aléatoire.,"Erhalte +3&nbsp;[img:shield], wenn du deine Haltung wechselst und reinige einen Stapel einer zufälligen Schwächung.","Quando cambi postura, ottieni +3 allo [img:shield] e rimuovi uno stack di un malus casuale.","Ao trocar de postura, obtenha +2 de [img:shield] e purifique uma acumulação de um enfraquecimento aleatório.","当你切换姿态时，
 获得+3 [img:shield] 并清除一个随机负面效果堆叠。
 "
-PASSIVE_MIXUP_NAME,Mixup,,Mezcla,Posture critique,Finte,Amalgama,Mistura,混乱
+PASSIVE_MIXUP_NAME,Mixup,,Mezcla,Posture critique,Finte,Amalgama,Mistura,混合
 PASSIVE_MIXUP_DESC,"When you switch stances, your next basic attack this turn is critical.",,"Al cambiar de postura, el siguiente ataque básico de este turno es crítico.","Quand vous changez de posture, votre prochaine attaque de base ce tour sera un coup critique.","Wenn du deine Haltung wechselst, trifft dein nächster Grundangriff in diesem Zug kritisch.","Quando cambi postura, il tuo prossimo attacco base in questo turno è critico.","Ao trocar de postura, seu próximo ataque básico neste turno passa a ser crítico.","当你切换姿态时，
 本回合你的下一次普通攻击为暴击。
 "
@@ -750,10 +750,10 @@ PASSIVE_PAINGAIN2_DESC,"When you take damage, gain +1 Damage and +1 Temp Damage.
 PASSIVE_WIDESWING_NAME,Spin to Win,,Giro para ganar,Tournoyer pour gagner,Wirbelstürmer,Ruota della Fortuna,Giro da Vitória,旋转取胜
 PASSIVE_WIDESWING_DESC,Your basic attack is a 3x3 tile spin attack with Cleave.,,El ataque básico es un ataque giratorio de 3x3 casillas con Incisión.,Votre attaque de base est une attaque tournoyante de 3x3&nbsp;cases avec Fendoir.,"Dein Grundangriff ist jetzt ein Wirbelangriff über 3x3 Felder, der schlachten kann.",Il tuo attacco base è un attacco rotante 3x3 con Fendente.,Seu ataque básico se torna um ataque giratório de 3x3 espaços com cisão.,"你的基本攻击是一个3x3格的旋转攻击，
 
-带有顺劈效果。"
+带有横扫效果。"
 PASSIVE_WIDESWING2_DESC,Your basic attack is a 3x3 tile double spin attack with Cleave.,,El ataque básico es un ataque giratorio doble de 3x3 casillas con Incisión.,Votre attaque de base est une double attaque tournoyante de 3x3&nbsp;cases avec Fendoir.,"Dein Grundangriff ist jetzt ein doppelter Wirbelangriff über 3x3 Felder, der schlachten kann.",Il tuo attacco base è un doppio attacco rotante 3x3 con Fendente.,Seu ataque básico se torna um ataque giratório duplo de 3x3 espaços com cisão.,"你的基本攻击是一个3x3格的双重旋转攻击，
 
-带有顺劈效果。"
+带有横扫效果。"
 PASSIVE_CONFRONTATIONAL_NAME,Confrontational,,Confrontación,Attaque frontale,Streitlustig,Conflitto,Confronto,对抗性
 PASSIVE_CONFRONTATIONAL_DESC,"When you take damage, trample one tile towards the source of damage.",,"Al sufrir daño, pisotea una casilla hacia el origen de ese daño.","Quand vous subissez des dégâts, avancez d'une case en Piétinement vers votre attaquant.","Wenn du Schaden erleidest, trampel ein Feld in Richtung der Schadensquelle.","Quando subisci danno, usi Calpestamento su una casella verso la fonte del danno.","Ao sofrer dano, atropele 1 espaço na direção da fonte do dano.","受到伤害时，
 向伤害来源践踏一格。"
@@ -1389,7 +1389,7 @@ PASSIVE_RAPGOD_DESC,Your basic action also gives temporary +4 [img:spd].,,La acc
 "
 PASSIVE_RAPGOD2_DESC,"Your basic action also gives temporary +4 [img:spd], enemies gain Confusion 2 instead.",,La acción básica también otorga +4 [img:spd] temporal. Los enemigos sufren 2 de confusión en su lugar.,"Votre action de base confère également [img:spd]&nbsp;+4&nbsp;temporaires, ou Confusion&nbsp;+2&nbsp;sur les ennemis.",Deine Grundaktion verleiht außerdem vorübergehend +4&nbsp;[img:spd]. Gegner erleiden stattdessen Verwirrung&nbsp;2.,"La tua azione base ti dà anche +4 di [img:spd] temporanea, mentre i nemici subiscono Confusione 2.",Sua ação básica também concede +4 de [img:spd] temporariamente. Inimigos sofrem confusão 2.,"你的基础行动还会临时获得 +4 [img:spd]，
 
-敌人反而获得混乱 2。"
+敌人转而获得2层困惑。"
 PASSIVE_ANIMALISTIC_NAME,Animalistic,,Animalista,Bestialité,Animalistisch,Istinto Animale,Animalismo,兽性
 PASSIVE_ANIMALISTIC_DESC,"Familiars you spawn gain +2 Damage.
 When you shapeshift, gain +1 Damage.",,"Los familiares generados obtienen +2 de daño.
@@ -2786,10 +2786,10 @@ PASSIVE_PURIFIER_DESC,Your basic attack removes debuffs from allies.,,El ataque 
 PASSIVE_PURIFIER2_DESC,Your basic attack removes debuffs from allies and gives them All Stats Up.,,El ataque básico elimina las desventajas de los aliados y les otorga aumento total.,Votre attaque de base retire les malus des unités alliées et leur octroie Hausse de stats.,Dein Grundangriff entfernt Schwächungen von Verbündeten und verleiht ihnen einen Bonus auf alle Attribute.,Il tuo attacco base rimuove i malus dagli alleati e fornisce loro Aumento delle Statistiche.,Seu ataque básico remove enfraquecimentos de aliados e concede a eles todos os atributos aumentados.,"你的普通攻击会移除盟友的减益
 效果并给予他们全属性提升。"
 PASSIVE_VENERATEDTOUCH_NAME,Venerated Touch,,Toque venerado,Toucher vénéré,Verehrte Berührung,Tocco Venerabile,Toque Venerável,尊敬之触
-PASSIVE_VENERATEDTOUCH_DESC,Your basic attack inflicts Confusion 2 on enemies and gives +2 [img:shield] to allies.,,El ataque básico inflige 2 de confusión a los enemigos y otorga +2 [img:shield] a los aliados.,Votre attaque de base inflige Confusion&nbsp;+2&nbsp;aux ennemis et octroie [img:shield]&nbsp;+2&nbsp;aux unités alliées.,Dein Grundangriff verursacht Verwirrung&nbsp;2 bei Gegnern und verleiht Verbündeten +2&nbsp;[img:shield].,Il tuo attacco base infligge Confusione 2 ai nemici e fornisce +2 allo [img:shield] agli alleati.,Seu ataque básico aplica confusão 2 em inimigos e concede +2 de [img:shield] a aliados.,"你的普通攻击对敌人造成2层混乱，
+PASSIVE_VENERATEDTOUCH_DESC,Your basic attack inflicts Confusion 2 on enemies and gives +2 [img:shield] to allies.,,El ataque básico inflige 2 de confusión a los enemigos y otorga +2 [img:shield] a los aliados.,Votre attaque de base inflige Confusion&nbsp;+2&nbsp;aux ennemis et octroie [img:shield]&nbsp;+2&nbsp;aux unités alliées.,Dein Grundangriff verursacht Verwirrung&nbsp;2 bei Gegnern und verleiht Verbündeten +2&nbsp;[img:shield].,Il tuo attacco base infligge Confusione 2 ai nemici e fornisce +2 allo [img:shield] agli alleati.,Seu ataque básico aplica confusão 2 em inimigos e concede +2 de [img:shield] a aliados.,"你的普通攻击对敌人造成2层困惑，
 
 并给予盟友 +2 [img:shield]。"
-PASSIVE_VENERATEDTOUCH2_DESC,Your basic attack inflicts Confusion 3 on enemies and has a 50% chance to Stun. It also gives +3 [img:shield] to allies and a 50% chance for All Stats Up.,,"El ataque básico inflige 3 de confusión a los enemigos y tiene un 50 % de probabilidad de aturdir. Además, otorga +3 [img:shield] a los aliados y tiene un 50 % de probabilidad de obtener aumento total.",Votre attaque de base inflige Confusion&nbsp;+3&nbsp;aux ennemis et a 50&nbsp;% de chances d'infliger Étourdissement. Elle octroie [img:shield]&nbsp;+3&nbsp;aux unités alliées et a 50&nbsp;% de chances de leur octroyer Hausse de stats.,Dein Grundangriff verursacht Verwirrung&nbsp;3 und mit 50%iger Wahrscheinlichkeit Betäubung bei Gegnern. Außerdem verleiht er Verbündeten +3&nbsp;[img:shield] und mit 50%iger Wahrscheinlichkeit einen Bonus auf alle Attribute.,Il tuo attacco base infligge Confusione 3 ai nemici e ha il 50% di probabilità di infliggere Stordimento. Fornisce inoltre +3 allo [img:shield] agli alleati e un 50% di probabilità di ottenere Aumento delle Statistiche.,Seu ataque básico aplica confusão 3 em inimigos e possui 50% de chance de atordoar. Ele também concede +e de [img:shield] a aliados e possui 50% de chance de conceder todos os atributos aumentados.,"你的普通攻击对敌人造成3层混乱，
+PASSIVE_VENERATEDTOUCH2_DESC,Your basic attack inflicts Confusion 3 on enemies and has a 50% chance to Stun. It also gives +3 [img:shield] to allies and a 50% chance for All Stats Up.,,"El ataque básico inflige 3 de confusión a los enemigos y tiene un 50 % de probabilidad de aturdir. Además, otorga +3 [img:shield] a los aliados y tiene un 50 % de probabilidad de obtener aumento total.",Votre attaque de base inflige Confusion&nbsp;+3&nbsp;aux ennemis et a 50&nbsp;% de chances d'infliger Étourdissement. Elle octroie [img:shield]&nbsp;+3&nbsp;aux unités alliées et a 50&nbsp;% de chances de leur octroyer Hausse de stats.,Dein Grundangriff verursacht Verwirrung&nbsp;3 und mit 50%iger Wahrscheinlichkeit Betäubung bei Gegnern. Außerdem verleiht er Verbündeten +3&nbsp;[img:shield] und mit 50%iger Wahrscheinlichkeit einen Bonus auf alle Attribute.,Il tuo attacco base infligge Confusione 3 ai nemici e ha il 50% di probabilità di infliggere Stordimento. Fornisce inoltre +3 allo [img:shield] agli alleati e un 50% di probabilità di ottenere Aumento delle Statistiche.,Seu ataque básico aplica confusão 3 em inimigos e possui 50% de chance de atordoar. Ele também concede +e de [img:shield] a aliados e possui 50% de chance de conceder todos os atributos aumentados.,"你的普通攻击对敌人造成3层困惑，
 
 有 50% 几率造成眩晕。
 它还给予盟友 +3 [img:shield] 以及
@@ -3632,7 +3632,7 @@ Aprenda o encantamento Descanso (se possuir um espaço de encantamento vazio).",
 DISORDER_DIABETES_NAME,Diabetes,,Diabetes,Diabète,Diabetes,Diabete,Diabetes,糖尿病
 DISORDER_DIABETES_DESC,"When you end your turn, if you haven't eaten food, gain All Stats Down and Confusion 1. Each time you eat food, cleanse all your debuffs and gain +1 [img:int].",,"Al final del turno, si no ha comido nada, sufre reducción total y 1 de confusión. Cada vez que come, elimina todas sus desventajas y obtiene +1 [img:int].","À la fin de votre tour, si vous n'avez pas mangé de nourriture, Baisse de stats et Confusion&nbsp;+1. Chaque fois que vous mangez, vos malus sont dissipés et [img:int]&nbsp;+1.","Wenn du deinen Zug beendest und kein Essen gegessen hast, erleidest du einen Malus auf alle Attribute und Verwirrung&nbsp;1. Jedes Mal, wenn du etwas isst, reinigst du alle Schwächungen und erhältst +1&nbsp;[img:int].","Quando finisci il tuo turno, se non hai mangiato, ottieni Diminuzione delle Statistiche e Confusione 1. Ogni volta che mangi, rimuovi tutti i tuoi malus e ottieni +1 all'[img:int].","Ao finalizar seu turno, se não tiver comido nenhum alimento, obtenha todos os atributos aumentados e confusão 1. A cada vez que come um alimento, purifique todos os seus enfraquecimentos e obtenha +1 de [img:int].","当你回合结束时，
 如果你没有进食，
-获得全属性下降和混乱1。
+获得全属性下降和困惑。
 每次你进食时，
 清除所有负面状态并获得+1 [img:int]。
 "

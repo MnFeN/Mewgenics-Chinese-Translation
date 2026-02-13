@@ -173,9 +173,9 @@ ABILITY_BUTTSCOOT_DESC,"Move 1 tile, leaving a maggot familiar behind you.",,Se 
 留下一个蛆虫召唤物在你身后。"
 ABILITY_BUTTSCOOT2_DESC,"Move up to 3 tiles, leaving a maggot familiar behind you.",,Se mueve hasta 3 casillas y deja un familiar gusano atrás.,Bougez jusqu'à 3&nbsp;cases et laissez un asticot de compagnie derrière vous.,Bewege dich um bis zu 3&nbsp;Felder und hinterlasse einen Madenbegleiter.,"Ti sposti fino a 3 caselle, lasciando un famiglio di larva dietro di te.","Mova-se por até 3 espaços, deixando um familiar verme para trás.","移动最多3格，
 留下一个蛆虫宠物在你身后。"
-ABILITY_CONFUSION_NAME,Confusion,,Confusión,Confusion,Verwirrung,Confusione,Confusão,混乱
-ABILITY_CONFUSION_DESC,Inflict Confusion 2 on a unit.,,Inflige 2 de confusión a una unidad.,Infligez Confusion&nbsp;+2&nbsp;à une unité.,Verursache Verwirrung&nbsp;2 bei einer Einheit.,Infliggi confusione 2 a un'unità.,Aplique confusão 2 em uma unidade.,对一个单位施加2层混乱。
-ABILITY_CONFUSION2_DESC,Inflict Confusion 4 on units in an area.,,Inflige 4 de confusión a unidades en un área.,Infligez Confusion&nbsp;+4&nbsp;à des unités dans une zone.,Verursache Verwirrung&nbsp;4 bei Einheiten in einem bestimmten Bereich.,Infliggi Confusione 4 alle unità in un'area.,Aplique confusão 4 em unidades em uma área.,"对一个区域内的单位施加4层混乱。
+ABILITY_CONFUSION_NAME,Confusion,,Confusión,Confusion,Verwirrung,Confusione,Confusão,困惑
+ABILITY_CONFUSION_DESC,Inflict Confusion 2 on a unit.,,Inflige 2 de confusión a una unidad.,Infligez Confusion&nbsp;+2&nbsp;à une unité.,Verursache Verwirrung&nbsp;2 bei einer Einheit.,Infliggi confusione 2 a un'unità.,Aplique confusão 2 em uma unidade.,对一个单位施加2层困惑。
+ABILITY_CONFUSION2_DESC,Inflict Confusion 4 on units in an area.,,Inflige 4 de confusión a unidades en un área.,Infligez Confusion&nbsp;+4&nbsp;à des unités dans une zone.,Verursache Verwirrung&nbsp;4 bei Einheiten in einem bestimmten Bereich.,Infliggi Confusione 4 alle unità in un'area.,Aplique confusão 4 em unidades em uma área.,"对一个区域内的单位施加4层困惑。
 "
 ABILITY_PLAYDEAD_NAME,Play Dead,,Hacerse el muerto,Faire le mort,Totstellen,Fare il Morto,Fingir de Morto,装死
 ABILITY_PLAYDEAD_DESC,Down yourself. You don't get injured.,,"Esta unidad se autoabate, pero no sufre lesiones.",Mettez-vous K.O. Vous ne subirez pas de blessure.,"Du fällst in Ohnmacht, ohne verletzt zu werden.",Ti stendi a terra. Non subirai ferite.,Fique inconsciente. Você não obtém ferimentos.,让自己倒地。且不会受到重伤。
@@ -754,7 +754,7 @@ ABILITY_SWAT2_DESC,"Knockback a unit 10 tiles.
 ABILITY_LICK_NAME,Lick,,Lametón,Léchouille,Schlecker,Leccata,Lambida,舔
 ABILITY_LICK_DESC,Heal an adjacent unit by 2 HP.,,Devuelve 2 PS a una unidad adyacente.,Soigne une unité adjacente de 2&nbsp;PV.,Heile eine benachbarte Einheit um 2&nbsp;LP.,Curi un'unità adiacente di 2 PS.,Cure 2 PV de uma unidade adjacente.,治疗一个相邻单位2点生命值。
 ABILITY_LICK2_DESC,Heal an adjacent unit by 2 HP. Healed enemies gain Confusion 3.,,Devuelve 2 PS a una unidad adyacente. Los enemigos curados obtienen 3 de confusión.,Soigne une unité adjacente de 2&nbsp;PV. Les ennemis soignés subissent Confusion&nbsp;+3.,Heile eine benachbarte Einheit um 2&nbsp;LP. Geheilte Gegner erleiden Verwirrung&nbsp;3.,Curi un'unità adiacente di 2 PS. I nemici curati ottengono Confusione 3.,Cure 2 PV de uma unidade adjacente. Inimigos curados obtêm confusão 3.,"治疗一个相邻单位2点生命值。
-被治疗的敌人获得3层混乱。"
+被治疗的敌人获得3层困惑。"
 ABILITY_PURR_NAME,Purr,,Ronroneo,Ronronnement,Schnurren,Fusa,Purr,咕噜
 ABILITY_PURR_DESC,Remove 1 stack of a random debuff from yourself and all adjacent units.,,Elimina 1 acumulación de una desventaja al azar de sí misma y de todas las unidades adyacentes.,Retire 1&nbsp;cumul de malus aléatoire sur vous et toutes les unités adjacentes.,Entferne 1&nbsp;Stapel einer zufälligen Schwächung von dir selbst und allen benachbarten Einheiten.,Rimuovi 1 stack di un malus casuale da te e da tutte le unità adiacenti.,Remova 1 acumulação de um enfraquecimento aleatório de si e de todas as unidades adjacentes.,"从你和所有相邻单位身上移除1层随机负面效果。
 "
@@ -1421,7 +1421,7 @@ ABILITY_TURNFOE_NAME,Turn Foe,,Conversión de enemigo,Parle à ma patte,Zurückw
 ABILITY_TURNFOE_DESC,Force a nearby unit to move away from you.,,Obliga a una unidad cercana a alejarse de esta unidad.,Force une unité proche à vous tourner le dos.,"Zwinge eine Einheit in der Nähe, sich von dir wegzubewegen.",Costringi un'unità vicina ad allontanarsi da te.,Force uma unidade próxima a se afastar de você.,迫使附近单位远离你移动。
 ABILITY_TURNFOE2_DESC,"Force a nearby unit to move away from you. If it was an enemy, inflict Madness 1 and Confusion 1.",,"Obliga a una unidad cercana a alejarse de esta unidad. Si se trata de un enemigo, le inflige 1 de locura y 1 de confusión.","Force une unité proche à vous tourner le dos. Si c'est un ennemi, inflige Folie&nbsp;+1&nbsp;et Confusion&nbsp;+1.","Zwinge eine Einheit in der Nähe, sich von dir wegzubewegen. Ist die Einheit ein Gegner, verursache Wahnsinn&nbsp;1 und Verwirrung&nbsp;1.","Costringi un'unità vicina ad allontanarsi da te. Se era un nemico, infliggi Follia 1 e Confusione 1.","Force uma unidade próxima a se afastar de você. Caso seja um inimigo, aplique insanidade 1 e confusão 1.","强制附近的单位远离你。
 如果是敌人，
-施加1层疯狂和1层混乱。"
+施加1层疯狂和1层困惑。"
 ABILITY_HEALINGSALVE_NAME,Healing Salve,,Salva curativa,Baume guérisseur,Heilsalbe,Unguento Curativo,Bálsamo Curativo,治疗药膏
 ABILITY_HEALINGSALVE_DESC,You or an adjacent unit gains +1 Health Regeneration.,,Esta unidad o una adyacente obtiene +1 de regeneración de salud.,Confère un Régénération de santé&nbsp;+1&nbsp;à vous ou une unité adjacente.,Du oder eine benachbarte Einheit erhält +1&nbsp;Lebensregeneration.,Tu o un'unità adiacente ottenete +1 a Rigenerazione Salute.,Você ou uma unidade adjacente obtêm +1 de regeneração de saúde.,"你或一个相邻单位获得 +1生命值回复。
 "
@@ -1766,10 +1766,10 @@ ABILITY_KIBURST2_DESC,Deal 2 damage and knockback adjacent units 2 tiles. Gain +
 
 获得+2 [img:shield]。"
 ABILITY_DRAGONPUNCH_NAME,Dragon Punch,,Puñetazo del dragón,Coup du dragon,Drachenschlag,Pugno del Drago,Golpe do dragão,龙拳
-ABILITY_DRAGONPUNCH_DESC,A magic damage melee attack with knockback 3 that inflicts Confusion.,,Un ataque cuerpo a cuerpo con daño mágico y 3 de retroceso que inflige confusión.,Une attaque au corps-à-corps aux dégâts magiques avec Recul&nbsp;+3&nbsp;qui inflige Confusion.,"Ein Nahkampfangriff, der magischen Schaden, Rückstoß&nbsp;3 und Verwirrung verursacht.",Un attacco corpo a corpo con danno magico e Contraccolpo 3 che infligge Confusione.,Um ataque corpo-a-corpo de dano mágico com empurrão 3 que aplica confusão.,"一次带有3格击退的魔法伤害近战攻击，并施加混乱。
+ABILITY_DRAGONPUNCH_DESC,A magic damage melee attack with knockback 3 that inflicts Confusion.,,Un ataque cuerpo a cuerpo con daño mágico y 3 de retroceso que inflige confusión.,Une attaque au corps-à-corps aux dégâts magiques avec Recul&nbsp;+3&nbsp;qui inflige Confusion.,"Ein Nahkampfangriff, der magischen Schaden, Rückstoß&nbsp;3 und Verwirrung verursacht.",Un attacco corpo a corpo con danno magico e Contraccolpo 3 che infligge Confusione.,Um ataque corpo-a-corpo de dano mágico com empurrão 3 que aplica confusão.,"一次带有3格击退的魔法伤害近战攻击，并施加困惑。
 "
 ABILITY_DRAGONPUNCH2_DESC,A strong magic damage melee attack with knockback 10 that inflicts Confusion.,,Un potente ataque cuerpo a cuerpo con daño mágico y 10 de retroceso que inflige confusión.,Une puissante attaque au corps-à-corps aux dégâts magiques avec Recul&nbsp;+10&nbsp;qui inflige Confusion.,"Ein starker Nahkampfangriff, der magischen Schaden, Rückstoß&nbsp;10 und Verwirrung verursacht.",Un potente attacco corpo a corpo con danno magico e Contraccolpo 10 che infligge Confusione.,Um forte ataque corpo-a-corpo de dano mágico com empurrão 10 que aplica confusão.,"一次强力的带有10格击退的魔法
-伤害近战攻击，并施加混乱。"
+伤害近战攻击，并施加困惑。"
 ABILITY_REALLYFASTRUN_NAME,Really Fast Run,,Carrera muy rápida,Super rapide,Supersprint,Corsa Velocissima,Corrida Realmente Rápida,极速奔跑
 ABILITY_REALLYFASTRUN_DESC,"Run in a straight line up to 4 tiles, through objects. Wind blows over tiles you run through.",,Corre en línea recta hasta 4 casillas atravesando objetos. El viento sopla sobre las casillas por las que pasa la unidad.,"Courez en ligne droite sur 4&nbsp;cases, en traversant les objets. Le vent souffle sur les cases traversées.","Renne bis zu vier Felder in einer geraden Linie und ignoriere Hindernisse. Über Felder, über die du gerannt bist, weht Wind.","Corri in linea retta fino a 4 caselle di distanza, attraversando gli oggetti. Il vento soffia sulle caselle su cui passi.",Corra através de objetos em uma linha reta por até 4 espaços. O vento sopra sobre espaços pelos quais você passa.,"以直线跑动最多4格，
 穿过物体。
@@ -2207,9 +2207,9 @@ ABILITY_FORBIDDENFLOOD2_DESC,"Knock back and damage all enemies, heal all allies
 [s:.7](每场战斗可施放一次。)[/s]"
 ABILITY_WATERSPHERE_NAME,Whirlpool,,Remolino,Vortex,Strudel,Vortice,Redemoinho,漩涡
 ABILITY_WATERSPHERE_DESC,Create a whirlpool that spins units and inflicts Confusion on them.,,Crea un remolino que hace girar a las unidades y les inflige confusión.,Conjure un tourbillon qui fait tourner les unités et leur inflige Confusion.,"Erschaffe einen Strudel, der Einheiten wirbelt und sie verwirrt.",Crei un vortice che fa girare le unità e infligge loro Confusione.,Crie um redemoinho que gira unidades e aplica confusão.,"制造一个旋转漩涡，
-使单位旋转并附加混乱状态。"
+使单位旋转并附加困惑状态。"
 ABILITY_WATERSPHERE2_DESC,Create a larger whirlpool that spins units and inflicts Confusion on them.,,Crea un remolino más grande que hace girar a las unidades y les inflige confusión.,Conjure un grand tourbillon qui fait tourner les unités et leur inflige Confusion.,"Erschaffe einen größeren Strudel, der Einheiten wirbelt und sie verwirrt.",Crei un vortice più grande che fa girare le unità e infligge loro Confusione.,Crie um redemoinho maior que gira unidades e aplica confusão.,"制造一个更大范围的旋转漩涡，
-使单位旋转并附加混乱状态。"
+使单位旋转并附加困惑状态。"
 ABILITY_CHAINLIGHTNING_NAME,Chain Lightning,,Relámpagos encadenados,Chaîne d'éclairs,Kettenblitz,Catena di Fulmini,Raio Encadeado,链式闪电
 ABILITY_CHAINLIGHTNING_DESC,Shoot lightning that chains randomly to other nearby units up to 2 tiles away.,,Dispara un relámpago que se encadena al azar con otras unidades cercanas hasta a 2 casillas de distancia.,Tire un éclair qui s'enchaîne aléatoirement sur d'autres unités proches à 2&nbsp;cases max.,"Verschieße einen Blitz, der auf zufällige Einheiten in der Nähe in bis zu 2&nbsp;Feldern Entfernung überspringt.",Spari fulmini che si concatenano casualmente ad altre unità vicine fino a 2 caselle di distanza.,Dispare raios que se encadeiam aleatoriamente a outras unidades próximas dentro de 2 espaços de distância.,"射出闪电，可随机连锁波及最多
 2 格内的其他附近单位。"
@@ -3527,7 +3527,7 @@ ABILITY_FLICKER_DESC,Teleport two tiles away. Displace any units you teleport in
 目标位置上的任何单位挪开。"
 ABILITY_FLICKER2_DESC,Teleport two tiles away. Displace any units you teleport into and inflict them with Confusion 2 and Blind 2.,,Se teletransporta a 2 casillas de distancia. Desplaza a las unidades sobre las que se teletransporta y les inflige 2 de confusión y 2 de ceguera.,"Vous vous téléportez à 2&nbsp;cases de distance. Vous déplacez les unités qui sont sur la case de destination, et leur infligez Confusion&nbsp;+2&nbsp;et Cécité&nbsp;+2.","Teleportiere dich zwei Felder. Dränge Einheiten weg, in die du dich teleportierst und verursache bei ihnen Verwirrung&nbsp;2 und Blindheit&nbsp;2.",Ti teletrasporti a due caselle di distanza. Sposti tutte le unità dalla casella in cui ti teletrasporti e infliggi loro Confusione 2 e Accecamento 2.,"Teletransporte-se para dois espaços de distância. Desloque qualquer unidade que esteja no espaço para onde você se teletransportar, e aplique confusão 2 e cegueira 2.","传送两格远。将你传送到的
 目标位置上的任何单位挪开，
-并造成2层混乱和2层致盲。"
+并造成2层困惑和2层致盲。"
 ABILITY_MINDMELD_NAME,Mind Meld,,Fusión mental,Cerveau liquéfié,Gedankenschmelze,Fusione Mentale,Fusão Mental,心灵融合
 ABILITY_MINDMELD_DESC,"Give another unit an extra turn after this one.
 This spell can't be cast during extra turns.",,"Otorga a otra unidad un turno extra después de este.
@@ -3551,7 +3551,7 @@ ABILITY_VACUUM_DESC,Teleport all enemies within an area as close to the center o
 "
 ABILITY_VACUUM2_DESC,Teleport all enemies within a large area as close to the center of that area as possible and inflict Confusion on those units.,,Teletransporta a todos los enemigos dentro de un área amplia tan cerca como sea posible del centro de esa área. Les inflige confusión.,Vous téléportez tous les ennemis d'une vaste zone spécifique aussi près que possible du centre de cette zone. Vous leur infligez Confusion.,Teleportiere Einheiten innerhalb eines großen Bereichs so nah an die Mitte dieses Bereichs wie möglich und verursache Verwirrung bei ihnen.,Teletrasporti tutti i nemici all'interno di un'area il più vicino possibile al centro dell'area stessa e infliggi loro Confusione.,Teletransporte todos os inimigos dentro de uma área grande para o mais próximo possível do centro dessa área e aplique confusão nessas unidades.,"将大范围内的所有敌人传送到该区域中心附近，
 
-并使这些单位陷入混乱状态。"
+并使这些单位陷入困惑状态。"
 ABILITY_GROWHEAD_NAME,Grow Head,,Crecimiento de cabeza,Tête supplémentaire,Kopfsache,Crescita Cranica,Crescer Cabeça,长出头颅
 ABILITY_GROWHEAD_DESC,Gain +1 [img:int] and -1 [img:cha].,,Obtiene +1 [img:int] y -1 [img:cha].,"[img:int]&nbsp;1, et [img:cha]&nbsp;-1.",Erhalte +1&nbsp;[img:int] und -1&nbsp;[img:cha].,Ottieni +1 all'[img:int] e -1 al [img:cha].,Obtenha +1 de [img:int] e -1 de [img:cha].,获得 +1 [img:int] 和 -1 [img:cha]。
 ABILITY_PING_NAME,Ping,,Llamada de atención,Latence,Ping,Ping,Ping,信号
@@ -3612,15 +3612,15 @@ ABILITY_TEMPORALSHARDS2_DESC,"Give a unit within your line of sight +3 temporary
 流血荆棘持续整个战斗。"
 ABILITY_REALITYSCRAMBLE_NAME,Reality Scramble,,Desorden de realidad,Réalité brouillée,Wirklichkeit verrühren,Realtà in Subbuglio,Embaralhamento da Realidade,现实混乱
 ABILITY_REALITYSCRAMBLE_DESC,Randomize the positions of all units. Enemies get Confused.,,Coloca al azar a todas las unidades. Los enemigos sufren confusión.,Vous mélangez les positions de toutes les unités. Confusion pour les ennemis.,Die Positionen aller Einheiten werden zufällig verändert. Gegner werden verwirrt.,Rendi casuali le posizioni di tutte le unità. I ​​nemici subiscono Confusione.,Embaralhe as posições de todas as unidades. Inimigos ficam confusos.,"随机调整所有单位的位置。
-敌人变得混乱。"
+敌人变得困惑。"
 ABILITY_REALITYSCRAMBLE2_DESC,Randomize the positions of all units. Enemies get Confused. Non-boss enemies have a 10% chance to be erased from existence.,,Coloca al azar a todas las unidades. Los enemigos sufren confusión. Los enemigos que no sean jefes tienen un 10 % de probabilidad de ser eliminados.,Vous mélangez les positions de toutes les unités. Confusion pour les ennemis. 10&nbsp;% de chances que les ennemis (sauf boss) soient effacés de la carte.,Die Positionen aller Einheiten werden zufällig verändert. Gegner werden verwirrt. Die Existenz regulärer Gegner wird mit 10%iger Wahrscheinlichkeit ausgelöscht.,Rendi casuali le posizioni di tutte le unità. I ​​nemici subiscono Confusione. I nemici non boss hanno un 10% di probabilità di essere cancellati dall'esistenza.,Embaralhe as posições de todas as unidades. Inimigos ficam confusos. Inimigos que não sejam chefes possuem 10% de chance de serem apagados da existência.,"随机调整所有单位的位置。
-敌人变得混乱。
+敌人变得困惑。
 非Boss敌人有10%的几率从存在中消失。
 "
 ABILITY_GLARE_NAME,Glare,,Resplandor,Regard noir,Silberblick,Sguardo Abbagliante,Brilho,凝视
 ABILITY_GLARE_DESC,Inflict Madness on a unit in your line of sight.,,Inflige locura a una unidad en su campo visual.,Folie à une unité dans votre ligne de mire.,Verursache Wahnsinn bei einer Einheit in deiner Sichtlinie.,Infliggi Follia a un'unità nel tuo campo visivo.,Aplique insanidade em uma unidade dentro do seu campo de visão.,"对你视线内的一个单位施加疯狂。
 "
-ABILITY_GLARE2_DESC,Inflict Madness and Confusion on a unit in your line of sight.,,Inflige locura y confusión a una unidad en su campo visual.,Folie et Confusion à une unité dans votre ligne de mire.,Verursache Wahnsinn und Verwirrung bei einer Einheit in deiner Sichtlinie.,Infliggi Follia e Confusione a un'unità nel tuo campo visivo.,Aplique insanidade e confusão em uma unidade dentro do seu campo de visão.,"对你视线内的一个单位施加疯狂和混乱。
+ABILITY_GLARE2_DESC,Inflict Madness and Confusion on a unit in your line of sight.,,Inflige locura y confusión a una unidad en su campo visual.,Folie et Confusion à une unité dans votre ligne de mire.,Verursache Wahnsinn und Verwirrung bei einer Einheit in deiner Sichtlinie.,Infliggi Follia e Confusione a un'unità nel tuo campo visivo.,Aplique insanidade e confusão em uma unidade dentro do seu campo de visão.,"对你视线内的一个单位施加疯狂和困惑。
 "
 ABILITY_BLINDINGFLASH_NAME,Blinding Flash,,Destello cegador,Flash aveuglant,Blendender Blitz,Lampo Accecante,Brilho Cegante,致盲闪光
 ABILITY_BLINDINGFLASH_DESC,Inflict Blind 2 on each unit near you in your line of sight.,,Inflige 2 de ceguera a cada unidad cerca de esta y en su campo visual.,Cécité&nbsp;+2&nbsp;à toutes les unités à proximité dans votre ligne de mire.,"Verursache Blindheit&nbsp;2 bei jeder Einheit in deiner Nähe, die sich in deiner Sichtlinie befindet.",Infliggi Accecamento 2 a ogni unità vicina a te nel tuo campo visivo.,Aplique cegueira 2 em uma unidade próxima ou dentro do seu campo de visão.,"对你视线内靠近你的每个单位施加2层致盲。
@@ -3730,7 +3730,7 @@ ABILITY_MINDCRACK_DESC,Inflict Magic Weakness 2 on all units in your line of sig
 "
 ABILITY_MINDCRACK2_DESC,Inflict Magic Weakness 2 and Confusion 1 on all non-allied units in your line of sight.,,Inflige 2 de debilidad mágica y 1 de confusión a todas las unidades no aliadas en su campo visual.,Vulnérabilité magique&nbsp;+2&nbsp;et Confusion&nbsp;+1&nbsp;à toutes les unités (sauf alliées) dans votre ligne de mire.,Verursache bei allen Einheiten in deiner Sichtlinie Magieschwäche&nbsp;2 und Verwirrung&nbsp;1.,Infliggi Debolezza Magica 2 e Confusione 1 a tutte le unità non alleate nel tuo campo visivo.,Aplique fraqueza contra magia 2 e confusão 1 em todas as unidades não-aliadas dentro do seu campo de visão.,"对所有你视线内的非盟友单位施
 加2层魔法虚弱
-和1层混乱。"
+和1层困惑。"
 ABILITY_RESET_NAME,Reset,,Restauración,Réinitialisation,Zurücksetzen,Ripristino,Reinício,重置
 ABILITY_RESET_DESC,"Revive all bodies, fully heal all units, and clear all status effects.
 [s:.7](This spell can be cast only once per battle.)[/s]",,"Resucita todos los cadáveres, devuelve todos los PS a todas las unidades y les elimina los efectos de estado.
@@ -3771,11 +3771,11 @@ ABILITY_MIMIC2_DESC,"Target an allied cat within your line of sight. Cast one of
 （如果没有合适的法术，
 则使用它们的基础攻击）。
 [s:.7](该法术消耗更少。)[/s]"
-ABILITY_CHAOSSWAP_NAME,Chaos Swap,,Intercambio caótico,Chaos échangeable,Chaostausch,Scambio Caotico,Troca Caótica,混乱互换
+ABILITY_CHAOSSWAP_NAME,Chaos Swap,,Intercambio caótico,Chaos échangeable,Chaostausch,Scambio Caotico,Troca Caótica,困惑互换
 ABILITY_CHAOSSWAP_DESC,Swap positions with a random unit.,,Intercambia posiciones con una unidad al azar.,Vous échangez votre position avec celle d'une unité au hasard.,Tausche die Position mit einer zufälligen Einheit.,Scambi la tua posizione con quella di un'unità a caso.,Troque de posição com uma unidade aleatória.,与一个随机单位交换位置。
 ABILITY_CHAOSSWAP2_DESC,"Swap positions with a random unit. If that unit was an enemy, you inflict Confusion on it.",,"Intercambia posiciones con una unidad al azar. Si esa unidad era un enemigo, le inflige confusión.","Vous échangez votre position avec celle d'une unité au hasard. Si c'est un ennemi, vous lui infligez Confusion.","Tausche die Position mit einer zufälligen Einheit. Wenn diese Einheit ein Gegner war, verursachst du Verwirrung bei ihm.","Scambi la tua posizione con quella di un'unità a caso. Se era un'unità nemica, le infliggi Confusione.","Troque de posição com uma unidade aleatória. Caso a unidade seja um inimigo, aplique confusão.","与一个随机单位交换位置。
 如果该单位是敌人，
-将对其施加混乱。"
+将对其施加困惑。"
 ABILITY_ASTEROID_NAME,Asteroid,,Asteroide,Astéroïde,Asteroid,Asteroide,Asteróide,小行星
 ABILITY_ASTEROID_DESC,Make an asteroid fall onto a tile within your line of sight. The asteroid deals damage and leaves a rock.,,Hace que caiga un asteroide en una casilla en su campo visual. Este inflige daño y deja una roca.,Vous lancez un astéroïde sur une case dans votre ligne de mire. Il inflige des dégâts et laisse une pierre.,Lasse einen Asteroiden auf ein Feld in deiner Sichtlinie fallen. Der Asteroid verursacht Schaden und hinterlässt einen Stein.,Fai cadere un asteroide su una casella all'interno del tuo campo visivo. L'asteroide infligge danno e lascia una roccia.,Faça um asteroide cair dentro do seu campo de visão. O asteróide causa dano e deixa uma pedra.,"使一块小行星坠落到你视线内的一个格子上。
 
@@ -3788,7 +3788,7 @@ ABILITY_STASIS_NAME,Stasis,,Estasis,Stase,Stillstand,Stasi,Estase,停滞
 ABILITY_STASIS_DESC,Inflict Freeze on a unit within your line of sight.,,Inflige congelación a una unidad en su campo visual.,Gel à une unité dans votre ligne de mire.,Verursache bei einer Einheit in deiner Sichtlinie Frost.,Infliggi Congelamento a un'unità all'interno del tuo campo visivo.,Aplique congelamento em uma unidade dentro do seu campo de visão.,对你视线内的单位施加冻结。
 ABILITY_STASIS2_DESC,"Inflict Freeze 1, Blind 2, and Confusion 2 on a unit within your line of sight.",,"Inflige 1 de congelación, 2 de ceguera y 2 de confusión a una unidad en su campo visual.","Gel&nbsp;+1, Cécité&nbsp;+2&nbsp;et Confusion&nbsp;+2&nbsp;à une unité dans votre ligne de mire.","Verursache bei einer Einheit in deiner Sichtlinie Frost&nbsp;1, Blindheit&nbsp;2 und Verwirrung&nbsp;2.","Infliggi Congelamento 1, Accecamento 2 e Confusione 2 a un'unità all'interno del tuo campo visivo.","Aplique congelamento 1, cegueira 2 e confusão 2 em uma unidade dentro do seu campo de visão.","对你视线内的单位施加1层冻结、
 
-2层致盲和2层混乱。"
+2层致盲和2层困惑。"
 ABILITY_PASS_NAME,Pass,,Paso,Passe,Pass,Pass,Passagem,跳过
 ABILITY_PASS_DESC,"Give a unit within your line of sight an extra turn immediately, then end your turn.
 Castable only if you haven't taken any actions this turn.
@@ -3872,10 +3872,10 @@ ABILITY_MANIFEST2_DESC,Teleport into a unit within your line of sight. Deal dama
 ABILITY_FLIP_NAME,Flip,,Vuelta,Demi-tour,Umdrehen,Ribaltamento,Virada,翻转
 ABILITY_FLIP_DESC,Turn a unit within your line of sight 180 degrees. Inflict Confusion 1 on that unit.,,Hace girar 180 grados a una unidad en su campo visual. Le inflige 1 de confusión.,Vous faites faire un demi-tour à une unité dans votre ligne de mire et lui infligez Confusion&nbsp;+1.,Drehe eine Einheit in deiner Sichtlinie um 180&nbsp;Grad. Verursache Verwirrung&nbsp;1 bei dieser Einheit.,"Ruoti di 180 gradi un'unità all'interno del tuo campo visivo, infliggendole Confusione 1.",Faça uma unidade dentro do seu campo de visão a se virar 180 graus. Aplique confusão 1 nessa unidade.,"将你视线内的单位旋转180度。
 
-对该单位施加1层混乱。"
+对该单位施加1层困惑。"
 ABILITY_FLIP2_DESC,Turn a unit within your line of sight 180 degrees. Inflict Confusion 2 and Magic Weakness 1 on that unit.,,Hace girar 180 grados a una unidad en su campo visual. Le inflige 2 de confusión y 1 de debilidad mágica.,"Vous faites faire un demi-tour à une unité dans votre ligne de mire, et lui infligez Confusion&nbsp;+2&nbsp;et Vulnérabilité magique&nbsp;1.",Drehe eine Einheit in deiner Sichtlinie um 180&nbsp;Grad. Verursache Verwirrung&nbsp;2 und Magieschwäche&nbsp;1 bei dieser Einheit.,"Ruoti di 180 gradi un'unità all'interno del tuo campo visivo, infliggendole Confusione 2 e Debolezza Magica 1.",Faça uma unidade dentro do seu campo de visão a se virar 180 graus. Aplique confusão 2 e fraqueza contra magia 1 nessa unidade.,"将你视线内的单位旋转180度。
 
-对该单位施加2层混乱和1层魔法虚弱。
+对该单位施加2层困惑和1层魔法虚弱。
 "
 ABILITY_WITHDRAW_NAME,Withdraw,,Retirada,Retrait,Rückzug,Ritirata,Retirada,撤退
 ABILITY_WITHDRAW_DESC,Pull any unit within your line of sight to a tile adjacent to you.,,Atrae a cualquier unidad en su campo visual a una casilla adyacente.,Vous attirez toutes les unités dans votre ligne de mire vers une case adjacente à votre position.,Ziehe eine beliebige Einheit in deiner Sichtlinie auf ein benachbartes Feld zurück.,Attiri qualsiasi unità all'interno del tuo campo visivo su una casella adiacente a te.,Puxe qualquer unidade dentro do seu campo de visão para um espaço adjacente a você.,"将视线范围内的任何单位拉到你旁边的格子上。
@@ -4566,11 +4566,11 @@ Adormeça no final do turno.","刷新你的基础攻击和移动动作。
 获得 +2 [img:str] 和 +4 [img:spd]，
 持续到回合结束。"
 ABILITY_ENRAGE_NAME,Enrage,,Cólera,Fureur,Verärgern,Rabbia,Enfurecer,狂怒
-ABILITY_ENRAGE_DESC,Give a unit +4 [img:str] and Confusion 2.,,Otorga a una unidad +4 [img:str] y le inflige 2 de confusión.,[img:str]&nbsp;+4&nbsp;et Confusion&nbsp;+2&nbsp;à une unité.,Verleihe einer Einheit +4&nbsp;[img:str] und verursache Verwirrung&nbsp;2.,Fornisci a un'unità +4 alla [img:str] e Confusione 2.,Conceda a uma unidade +4 de [img:str] e confusão 2.,"给予一个单位 +4 [img:str] 和2层混乱。
+ABILITY_ENRAGE_DESC,Give a unit +4 [img:str] and Confusion 2.,,Otorga a una unidad +4 [img:str] y le inflige 2 de confusión.,[img:str]&nbsp;+4&nbsp;et Confusion&nbsp;+2&nbsp;à une unité.,Verleihe einer Einheit +4&nbsp;[img:str] und verursache Verwirrung&nbsp;2.,Fornisci a un'unità +4 alla [img:str] e Confusione 2.,Conceda a uma unidade +4 de [img:str] e confusão 2.,"给予一个单位 +4 [img:str] 和2层困惑。
 "
 ABILITY_ENRAGE2_DESC,Give a unit on any tile +4 [img:str] and Confusion 2.,,Otorga a una unidad en cualquier casilla +4 [img:str] y le inflige 2 de confusión.,[img:str]&nbsp;+4&nbsp;Et Confusion&nbsp;+2&nbsp;à une unité sur n'importe quelle case.,Verleihe einer Einheit auf einem beliebigen Feld +4&nbsp;[img:str] und verursache Verwirrung&nbsp;2.,Fornisci a un'unità su qualsiasi casella +4 alla [img:str] e Confusione 2.,Conceda a uma unidade em qualquer espaço +4 de [img:str] e confusão 2.,"给予任意格子上的
 一个单位 +4
-[img:str] 和 2层混乱。"
+[img:str] 和 2层困惑。"
 ABILITY_TUMBLE_NAME,Tumble,,Tropiezo,Dégringolade,Purzelbaum,Capitombolo,Tropeço,翻滚
 ABILITY_TUMBLE_DESC,Move one tile diagonally.,,Se mueve 1 casilla en diagonal.,Vous vous déplacez en diagonale de 1&nbsp;case.,Bewege dich diagonal um ein Feld.,Ti muovi di una casella in diagonale.,Mova-se um espaço diagonalmente.,斜向移动一格。
 ABILITY_TUMBLE2_DESC,Move two tiles diagonally.,,Se mueve 2 casillas en diagonal.,Vous vous déplacez en diagonale de 2&nbsp;cases.,Bewege dich diagonal um zwei Felder.,Ti muovi di due caselle in diagonale.,Mova-se dois espaços diagonalmente.,斜向移动两格。
@@ -4809,7 +4809,7 @@ ABILITY_EXHAUSTINGBLOW2_DESC,"Dash forward any number of tiles and attack with k
 [s:.7](O custo de mana deste encantamento aumenta em 2 no final de cada um de seus turnos.)[/s]","向前冲刺任意格数并攻击，
 带击退效果。
 [s:.7](该法术的法力值消耗在你每回合结束时增加 2。)[/s]"
-ABILITY_CHAOSRAMPAGE_NAME,Chaos Rampage,,Desmadre y caos,Fureur chaotique,Chaosrandale,Strage Caotica,Caos Devastador,混乱狂暴
+ABILITY_CHAOSRAMPAGE_NAME,Chaos Rampage,,Desmadre y caos,Fureur chaotique,Chaosrandale,Strage Caotica,Caos Devastador,混沌狂暴
 ABILITY_CHAOSRAMPAGE_DESC,"Take an extra turn. You have Madness 1 and Confusion 1 on that turn.
 [s:.7](This spell can't be cast on extra turns.)[/s]",,"Juega un turno extra. Sufre 1 de locura y 1 de confusión ese turno.
 [s:.7](Este hechizo no se puede lanzar en turnos extras).[/s]",Vous jouez un tour supplémentaire pendant lequel vous subissez Folie&nbsp;+1&nbsp;et Confusion&nbsp;+1. [s:.7](Non disponible lors des tours supplémentaires.)[/s],"Erhalte einen zusätzlichen Zug, in dem du unter Wahnsinn&nbsp;1 und Verwirrung&nbsp;1 leidest.
@@ -5188,7 +5188,7 @@ ABILITY_DISTRACT_DESC,Make a unit face away from you.,,Hace que una unidad le d�
 ABILITY_DISTRACT2_DESC,"Make any unit look away from you. This has a 33% chance to inflict Confusion.
 ",,Hace que cualquier unidad le dé la espalda. Tiene un 33 % de probabilidad de infligir confusión.,Vous faites en sorte qu'une unité vous tourne le dos. 33&nbsp;% de chances d'infliger Confusion.,"Zwinge eine Einheit, sich von dir wegzudrehen. Verursacht mit 33%iger Wahrscheinlichkeit Verwirrung.
 ",Fai voltare qualsiasi unità dall'altra parte rispetto a te. Ha un 33% di probabilità di infliggere Confusione.,Faça uma unidade se virar de costas para você. Isto possui 33% de chance de aplicar confusão.,"让任何单位背对你。
-这有33%的几率造成混乱效果。
+这有33%的几率造成困惑效果。
 "
 ABILITY_REBOUND_NAME,Rebound,,Rebote,Rebond,Abprall,Rimbalzo,Rebote,反弹
 ABILITY_REBOUND_DESC,A melee attack that rebounds you backwards 10 tiles.,,Un ataque cuerpo a cuerpo que hace retroceder a esta unidad 10 casillas.,Attaque au corps-à-corps qui vous fait rebondir vers l'arrière sur 10&nbsp;cases.,"Ein Nahkampfangriff, der dich 10&nbsp;Felder nach hinten schleudert.",Un attacco corpo a corpo che ti fa rimbalzare indietro di 10 caselle.,Um ataque corpo-a-corpo que faz você ricochetear 10 espaços para trás.,"一次近战攻击，
@@ -5478,7 +5478,7 @@ ABILITY_THIEFSWAP2_DESC,"Swap positions with any unit. Swap back at the end of y
 [s:.7](Lanciabile una volta per turno.)[/s]","Troque de posição com qualquer unidade. Troque de volta no final do seu turno. Se a unidade for um inimigo, aplique confusão 1.
 [s:.7](Um lançamento por turno.)[/s]","与任意单位交换位置。
 回合结束时交换回来。
-如果该单位是敌人，造成1层混乱。
+如果该单位是敌人，造成1层困惑。
 
 [s:.7](每回合可施放一次。)[/s]"
 ABILITY_PIERCE_NAME,Pierce,,Perforación,Percée,Durchbohren,Perforazione,Perfurar,穿刺
@@ -5535,8 +5535,8 @@ ABILITY_CHAKRAM2_DESC,"Throw a projectile that passes through units and then ret
 
 此投射物可收集拾取物。"
 ABILITY_JITTER_NAME,Jitter,,Terror,Chair de poule,Bibbern,Tremolio,Nervosismo,抖动
-ABILITY_JITTER_DESC,Inflict Confusion 1 on each adjacent unit.,,Inflige 1 de confusión a cada unidad adyacente.,Confusion&nbsp;+1&nbsp;à toutes les unités adjacentes.,Verursache bei jeder benachbarten Einheit Verwirrung&nbsp;1.,Infliggi Confusione 1 a ogni unità adiacente.,Aplique confusão 1 em cada unidade adjacente.,对每个相邻单位施加1层混乱。
-ABILITY_JITTER2_DESC,Inflict Confusion 1 on each unit within 3 tiles of you.,,Inflige 1 de confusión a cada unidad en un radio de 3 casillas.,Confusion&nbsp;+1&nbsp;à toutes les unités dans un rayon de 3&nbsp;cases.,Verursache bei jeder Einheit in bis zu 3&nbsp;Feldern Entfernung Verwirrung&nbsp;1.,Infliggi Confusione 1 a ogni unità entro 3 caselle da te.,Aplique confusão 1 em cada unidade dentro de 3 espaços de distância de você.,"对你3格范围内的每个单位施加1层混乱。
+ABILITY_JITTER_DESC,Inflict Confusion 1 on each adjacent unit.,,Inflige 1 de confusión a cada unidad adyacente.,Confusion&nbsp;+1&nbsp;à toutes les unités adjacentes.,Verursache bei jeder benachbarten Einheit Verwirrung&nbsp;1.,Infliggi Confusione 1 a ogni unità adiacente.,Aplique confusão 1 em cada unidade adjacente.,对每个相邻单位施加1层困惑。
+ABILITY_JITTER2_DESC,Inflict Confusion 1 on each unit within 3 tiles of you.,,Inflige 1 de confusión a cada unidad en un radio de 3 casillas.,Confusion&nbsp;+1&nbsp;à toutes les unités dans un rayon de 3&nbsp;cases.,Verursache bei jeder Einheit in bis zu 3&nbsp;Feldern Entfernung Verwirrung&nbsp;1.,Infliggi Confusione 1 a ogni unità entro 3 caselle da te.,Aplique confusão 1 em cada unidade dentro de 3 espaços de distância de você.,"对你3格范围内的每个单位施加1层困惑。
 "
 ABILITY_STEALTIME_NAME,Steal Time,,Robo de tiempo,Vol temporel,Zeit stehlen,Rubatempo,Roubo de Tempo,偷取时间
 ABILITY_STEALTIME_DESC,"A melee attack. If this crits, refresh your basic attack and movement actions.",,"Un ataque cuerpo a cuerpo. Si es un golpe crítico, restaura el ataque básico y las acciones de movimiento.","Attaque au corps-à-corps. Si elle inflige un coup critique, votre attaque de base et votre action de déplacement sont rechargées.",Ein Nahkampfangriff. Kritische Treffer frischen deinen Grundangriff und deine Bewegungsaktionen auf.,"Un attacco corpo a corpo. Se risulta critico, ricarichi il tuo attacco base e le azioni di movimento.","Um ataque corpo-a-corpo. Caso seja crítico, reinicie suas ações de ataque básico e movimento.","一次近战攻击。如果暴击，
@@ -5674,7 +5674,7 @@ ABILITY_EXTEND_DESC,Give a unit +3 range and reach until the end of their next t
 ABILITY_EXTEND2_DESC,Give a unit +20 range and reach until the end of their next turn.,,Otorga a una unidad +20 de alcance y extensión hasta el final del turno.,Portée et Allonge&nbsp;+20&nbsp;à une unité jusqu'à la fin de son tour.,Verleihe einer Einheit bis zum Ende ihres nächsten Zuges +20&nbsp;Reichweite.,Fornisci a un'unità +20 a raggio d'azione e portata fino alla fine del suo prossimo turno.,Conceda a uma unidade +20 de alcance e envergadura até o final de seu próximo turno.,"给予一个单位 +20 范围和攻击距离，
 
 持续到其下一回合结束。"
-ABILITY_CHAOSSHOT_NAME,Chaos Shot,,Tiro caótico,Tir chaotique,Chaosschuss,Tiro Caotico,Tiro Caótico,混乱射击
+ABILITY_CHAOSSHOT_NAME,Chaos Shot,,Tiro caótico,Tir chaotique,Chaosschuss,Tiro Caotico,Tiro Caótico,混沌射击
 ABILITY_CHAOSSHOT_DESC,Shoot a random unit within range.,,Le dispara a una unidad al azar dentro de su radio de alcance.,Vous tirez sur une unité au hasard à portée.,Schieße auf eine zufällige Einheit innerhalb deiner Reichweite.,Spari contro un'unità casuale all'interno del raggio d'azione.,Atire em uma unidade aleatória dentro do alcance.,射击范围内的随机单位。
 ABILITY_CHAOSSHOT2_DESC,"Shoot a random unit within range, twice!",,Le dispara dos veces a una unidad al azar dentro de su radio de alcance.,Vous tirez sur une unité au hasard à portée 2&nbsp;fois.,Schieße zweimal auf eine zufällige Einheit innerhalb deiner Reichweite.,Spari contro un'unità casuale all'interno del raggio d'azione per due volte!,Atire duas vezes em uma unidade aleatória dentro do alcance.,"射击范围内的随机单位，
 射击两次！"
@@ -5777,7 +5777,7 @@ ABILITY_DIVERSION_NAME,Diversion,,Distracción,Diversion,Ablenkung,Diversivo,Dis
 ABILITY_DIVERSION_DESC,Shoot a pebble. All enemies within 3 tiles move toward it.,,Lanza un guijarro. Todos los enemigos en un radio de 3 casillas se mueven hacia él.,Vous lancez un galet. Tous les ennemis dans un rayon de 3&nbsp;cases s'en rapprochent.,Feuere einen Kieselstein ab. Alle Gegner innerhalb von 3&nbsp;Feldern bewegen sich auf ihn zu.,Spari un sassolino. Tutti i nemici entro 3 caselle si muovono verso di esso.,Atire um seixo. Todos os inimigos dentro de 3 espaços de distância se movem na direção dele.,"射击一颗小石子。
 所有3格内的敌人都朝它移动。"
 ABILITY_DIVERSION2_DESC,Shoot a pebble. All enemies within 3 tiles move toward it and gain Confusion.,,Lanza un guijarro. Todos los enemigos en un radio de 3 casillas se mueven hacia él y sufren confusión.,Vous lancez un galet. Tous les ennemis dans un rayon de 3&nbsp;cases s'en rapprochent et reçoivent Confusion.,Feuere einen Kieselstein ab. Alle Gegner innerhalb von 3&nbsp;Feldern bewegen sich auf ihn zu und erleiden Verwirrung.,Spari un sassolino. Tutti i nemici entro 3 caselle si muovono verso di esso e ottengono Confusione.,Atire um seixo. Todos os inimigos dentro de 3 espaços de distância se movem na direção dele e obtêm confusão.,"射击一颗小石子。
-所有3格内的敌人都朝它移动并获得混乱。
+所有3格内的敌人都朝它移动并获得困惑。
 "
 ABILITY_ARROWSMITH_NAME,Arrowsmith,,Dominio de flechas,Flèche forgée,Pfeilschmied,Fabbricante d'Archi,Flecharia,箭匠
 ABILITY_ARROWSMITH_DESC,Gain +1 Bonus Attack at the start of your next turn.,,Obtiene +1 de bonificación de ataque al inicio del siguiente turno.,Attaque bonus&nbsp;+1&nbsp;au début de votre prochain tour.,Erhalte am Anfang deines nächsten Zuges +1&nbsp;Bonusangriff.,Ottieni +1 Attacco Bonus all'inizio del tuo prossimo turno.,Obtenha +1 ataque adicional no início do seu próximo turno.,"在你下回合开始时获得+1额外攻击。
@@ -6740,10 +6740,10 @@ ABILITY_LEECHES2_DESC,Inflict Leech 1 and Mana Leech 1 on a unit.,,Inflige 1 de 
 ABILITY_SHRIEK_NAME,Shriek,,Chillido,Cri perçant,Kreischen,Strillo,Grito,尖叫
 ABILITY_SHRIEK_DESC,"Inflict Fear 1, Confusion 2, and Madness 2 on units within a cone.",,"Inflige 1 de miedo, 2 de confusión y 2 de locura a unidades en un área cónica.","Peur&nbsp;+1, Confusion&nbsp;+2&nbsp;et Folie&nbsp;+2&nbsp;aux unités en cône.","Verursache Angst&nbsp;1, Verwirrung&nbsp;2 und Wahnsinn&nbsp;2 bei Einheiten in einem kegelförmigen Bereich.","Infliggi Paura 1, Confusione 2 e Follia 2 alle unità all'interno di un cono.","Aplique medo 1, confusão 2 e insanidade 2 em unidades dentro de um cone.","对扇形范围内的单位造成1层恐惧、
 
-2层混乱和2层疯狂。"
+2层困惑和2层疯狂。"
 ABILITY_SHRIEK2_DESC,"Inflict Fear 1, Confusion 2, Madness 2 and drain 2 HP from units within a cone.",,"Inflige 1 de miedo, 2 de confusión, 2 de locura y quita 2 PS a unidades en un área cónica.","Peur&nbsp;+1, Confusion&nbsp;+2, Folie&nbsp;+2&nbsp;et Drain de PV&nbsp;+2&nbsp;aux unités en cône.","Verursache Angst&nbsp;1, Verwirrung&nbsp;2 und Wahnsinn&nbsp;2 bei Einheiten in einem kegelförmigen Bereich und sauge ihnen 2&nbsp;LP ab.","Infliggi Paura 1, Confusione 2, Follia 2 e sottrai 2 PS alle unità all'interno di un cono.","Aplique medo 1, confusão 2, insanidade 2 e drene 2 PV de unidades dentro de um cone.","对扇形范围内的单位造成1层恐惧、
 
-2层混乱、
+2层困惑、
 2层疯狂并吸取2生命值。
 "
 ABILITY_SEPPUKU_NAME,Seppuku,,Seppuku,Seppuku,Seppuku,Seppuku,Seppuku,切腹
@@ -6996,7 +6996,7 @@ Quando sei in stato di KO, infliggi Confusione 10 all'unità che ti ha inflitto 
 Ao ficar inconsciente, aplique confusão 10 na unidade que causou isso.","直到你的下一回合，
 如果倒地也不会重伤。
 
-当倒地时，对击倒你的单位施加10层混乱。
+当倒地时，对击倒你的单位施加10层困惑。
 "
 ABILITY_DEMONICPACT_NAME,Demonic Pact,,Pacto demoníaco,Pacte démoniaque,Dämonischer Pakt,Patto Demoniaco,Pacto Demoníaco,恶魔契约
 ABILITY_DEMONICPACT_DESC,"Injure yourself and take an extra turn.

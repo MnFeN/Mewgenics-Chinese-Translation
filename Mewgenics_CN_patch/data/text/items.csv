@@ -194,7 +194,7 @@ ITEM_BLOODYBUTTERFLYKNIFE_DESC,"Use: A multi-hit melee attack with Lifesteal tha
 [s:.7](每场战斗可使用一次。)[/s]"
 ITEM_BLOODYMEATHOOK_NAME,Bloody Meat Hook,,Gancho sangriento para carne,Crochet de boucher ensanglanté,Blutiger Fleischhaken,Uncino da Carne Insanguinato,Gancho de Carne Ensanguentado,血肉钩
 ITEM_BLOODYMEATHOOK_DESC,"Use: Pull a unit towards you, Cleaving and inflicting Bleed 1.",,"Uso: Atrae a una unidad, le practica una incisión y le inflige 1 de hemorragia.","Utilisation&nbsp;: attire une unité vers vous, effectue une attaque tranchante et inflige Saignement 1.",Benutzen: Zieh eine Einheit an dich heran und verursache Blutung&nbsp;1.,"Uso: Tiri un'unità verso di te, infliggendole Fendente e Sanguinamento 1.","Uso: puxe uma unidade na sua direção, causando cisão e aplicando sangramento 1.","使用：拉近一个单位，
-对其造成横扫伤害并附加流血1。
+对其造成横扫伤害并附加1层流血。
 "
 ITEM_BLOODYSOULCLAW_NAME,Bloody Soul Claw,,Garra de alma sangrienta,Griffe spirituelle ensanglantée,Blutige Seelenkralle,Artiglio dell'Anima Insanguinato,Garra de Alma Ensanguentada,血魂爪
 ITEM_BLOODYSOULCLAW_DESC,"Use: A melee attack that deals damage equal to the number of uses this has left.
@@ -339,7 +339,7 @@ Passiveffekt: +2 Dornen.","Uso: Un attacco corpo a corpo multi-colpo con il 25% 
 [s:.7](Utilizzabile una volta per battaglia.)[/s]
 Abilità Passiva: +2 Spine.","Uso: um ataque corpo-a-corpo multigolpes com 25% de chance de causar cisão.
 [s:.7](Um uso por batalha.)[/s]
-Passivo: +2 de espinhos.","使用：多重近战攻击，有25%几率造成顺劈伤害。
+Passivo: +2 de espinhos.","使用：多重近战攻击，有25%几率造成横扫伤害。
 [s:.7](每场战斗可用一次。)[/s]
 被动：+2 荆棘。"
 ITEM_CHEESE_NAME,Cheese,,Queso,Fromage,Käse,Formaggio,Queijo,奶酪
@@ -569,7 +569,7 @@ ITEM_GRIPTRAINER_NAME,Grip Trainer,,Fortalecedor de mano,Renforce‑poigne,Finge
 ITEM_GRIPTRAINER_DESC,Use: Gain +1 [img:str].,,Uso: Obtiene +1 [img:str].,Utilisation&nbsp;: [img:str] +1.,Benutzen: Erhalte +1&nbsp;[img:str].,Uso: Ottieni +1 alla [img:str].,Uso: obtenha +1 de [img:str].,使用：获得 +1 [img:str]。
 ITEM_HARPYSCLAW_NAME,Harpy's Claw,,Garra de arpía,Griffe de harpie,Harpyienklaue,Artiglio dell'Arpia,Garra de Harpia,鹰身女妖之爪
 ITEM_HARPYSCLAW_DESC,"Use: A melee attack that inflicts Poison 1, Bleed 1, Confusion 1, Weakness 1, and Slow 1.",,"Uso: Lanza un ataque cuerpo a cuerpo que inflige 1 de veneno, 1 de hemorragia, 1 de confusión, 1 de debilidad y 1 de ralentización.","Utilisation&nbsp;: une attaque au corps-à-corps qui inflige Poison +1, Saignement +1, Confusion +1, Vulnérabilité +1&nbsp;et Lenteur +1.","Benutzen: Ein Nahkampfangriff, der Gift&nbsp;1, Blutung&nbsp;1, Verwirrung&nbsp;1, Schwäche&nbsp;1 und Verlangsamung&nbsp;1 verursacht.","Uso: Un attacco corpo a corpo che infligge Veleno 1, Sanguinamento 1, Confusione 1, Debolezza 1 e Rallentamento 1.","Uso: um ataque corpo-a-corpo que aplica veneno 1, sangramento 1, confusão 1, fraqueza 1 e lentidão 1.","使用：一次近战攻击，
-造成1层中毒，1层流血，1层混乱，
+造成1层中毒，1层流血，1层困惑，
 1层虚弱，1层减速。"
 ITEM_HEAVYMACE_NAME,Heavy Mace,,Maza pesada,Masse lourde,Schwerer Streitkolben,Mazza Pesante,Maça Pesada,重型战锤
 ITEM_HEAVYMACE_DESC,"Use: A melee attack with Knockback 2 that deals damage equal to your [img:str].
@@ -686,7 +686,7 @@ ITEM_IRRADIATEDOBJECT_CONFUSION_DESC,"Use: A melee attack that inflicts Confusio
 {str_aux_item_desc}
 [s:.7](Utilizzabile una volta per battaglia.)[/s]","Uso: um ataque corpo-a-corpo que aplica confusão 1.
 {str_aux_item_desc}
-[s:.7](Um uso por batalha.)[/s]","使用：近战攻击，造成1层混乱。
+[s:.7](Um uso por batalha.)[/s]","使用：近战攻击，造成1层困惑。
 
 {str_aux_item_desc}"
 ITEM_IRRADIATEDOBJECT_FEAR_DESC,"Use: A melee attack that inflicts Fear 1.
@@ -819,7 +819,7 @@ ITEM_MAMMOTHTUSK_DESC,"Use: A melee attack that inflicts Bruise 2 and Confusion.
 [s:.7](Einmal pro Kampf verwendbar.)[/s]","Uso: Un attacco corpo a corpo che infligge Livido 2 e Confusione. Subisci Sonnolenza dopo l'uso.
 [s:.7](Utilizzabile una volta per battaglia.)[/s]","Uso: um ataque corpo-a-corpo que aplica contusão 2 e confusão. Sofra sonolência após utilizar.
 [s:.7](Um uso por batalha.)[/s]","使用：一次近战攻击，
-造成2层挫伤和混乱。
+造成2层挫伤和困惑。
 使用后变得昏昏欲睡。
 [s:.7](每场战斗可使用一次。)[/s]"
 ITEM_MANHOLECOVER_NAME,Manhole Cover,,Tapa de alcantarilla,Plaque d'égout,Gullideckel,Tombino,Tampa de Bueiro,井盖
@@ -849,7 +849,7 @@ I boss, invece, subiscono come danno 1/6 dei loro PS attuali.
 [s:.7](Utilizzabile una volta per battaglia.)[/s]","Uso: um ataque corpo-a-corpo com cisão que causa dano equivalente à metade da saúde atual do alvo.
 Chefes sofrem 1/5 de sua saúde atual.
 [s:.7](Um uso por batalha.)[/s]","使用：
-一次带有顺劈的近战攻击，
+一次带有横扫的近战攻击，
 造成目标当前生命值一半的伤害。
 
 Boss则受到当前生命值六分之一的伤害。
@@ -1078,7 +1078,7 @@ ITEM_PURPLEMUSHROOM_DESC,"Use: A ranged attack that inflicts Confusion 2.
 [s:.7](Einmal pro Kampf verwendbar.)[/s]","Uso: Un attacco a distanza che infligge Confusione 2.
 [s:.7](Utilizzabile una volta per battaglia.)[/s]","Uso: um ataque à distância que aplica confusão 2.
 [s:.7](Um uso por batalha.)[/s]","使用：一次远程攻击，
-造成2层混乱。
+造成2层困惑。
 [s:.7](每场战斗可用一次。)[/s]"
 ITEM_PUZZLEBOX_NAME,Puzzle Box,,Caja rompecabezas,Casse-tête,Puzzlebox,Scrigno Segreto,Caixa de Quebra-Cabeça,谜题盒
 ITEM_PUZZLEBOX_DESC,"Use: Shoot hooks in 8 directions that inflict Bleed 1 and pull units towards you.
@@ -1314,7 +1314,7 @@ O dano é reiniciado no final da aventura.","单位不会留下尸体。
 ITEM_STEVENSSHOTGUN_NAME,Steven's Shotgun,,Escopeta de Steven,Fusil de Steven,Stevens Schrotflinte,Fucile a Pompa di Steven,Escopeta de Steve,斯蒂文的猎枪
 ITEM_STEVENSSHOTGUN_DESC,Use: Fires 5 projectiles in a cone. Using this recoils you 10 tiles backwards and Confuses you.,,"Uso: Dispara 5 proyectiles en un área cónica. Al usarla, esta unidad retrocede 10 casillas y sufre confusión.",Utilisation&nbsp;: tire 5&nbsp;projectiles en cône. Son utilisation vous projette de 10&nbsp;cases en arrière et vous inflige Confusion.,Benutzen: Verschießt 5&nbsp;Geschosse in einem kegelförmigen Bereich. Nach Benutzung wirst du 10&nbsp;Felder zurückgestoßen und verwirrt.,"Uso: Spara 5 proiettili in un cono. Se lo usi, rinculi di 10 caselle all'indietro e subisci Confusione.",Uso: dispare 5 projéteis em cone. Esta arma possui um recuo que empurra você 10 espaços para trás e aplica confusão.,"使用：发射 5 枚锥形投射物。
 
-使用后向后后退 10 格并且陷入混乱。
+使用后向后后退 10 格并且陷入困惑。
 "
 ITEM_STEVENWEAPON1_NAME,Steven,,Steven,Steven,Steven,Steven,Steven,史蒂文
 ITEM_STEVENWEAPON1_DESC,"Use: A melee attack. If this hits an allied cat, spawn a quarter-sized copy of them with 25% of their stats. The copy is AI controlled.
@@ -1742,7 +1742,7 @@ Si ricarica quando sei sotto l'influenza di effetti dell'elemento acqua.","Uso: 
 受到水元素效果影响时补充。"
 ITEM_GLITCH_NAME,Glitch,,Anomalía,Glitch,Glitch,Glitch,Glitch,故障
 ITEM_GLITCH_DESC,Use: Scramble the last spell you used. Permanently.,,Uso: Distorsiona el último hechizo que hayas usado. Para siempre.,Utilisation&nbsp;: mélange le dernier sort utilisé. De manière permanente.,"Benutzen: Der letzte Zauber, den du gewirkt hast, wird mit einem zufälligen anderen Zauber ersetzt. Dauerhaft.",Use: Causa Scompiglio all'ultimo incantesimo che hai usato. Permanentemente.,Uso: embaralhe o último encantamento que você utilizou. Permanentemente.,"使用：
-永久打乱你上次使用的法术。"
+永久扰乱你上次使用的法术。"
 ITEM_GLOWINGCOIN_NAME,Glowing Coin,,Moneda resplandeciente,Pièce scintillante,Leuchtende Münze,Moneta Luminescente,Moeda Brilhante,发光硬币
 ITEM_GLOWINGCOIN_DESC,"Use: Flip a coin.
 Heads: Double your mana.
@@ -1764,7 +1764,7 @@ ITEM_GLOWINGSEED_DESC,Your basic attack spawns tall grass.,,El ataque básico ge
 ITEM_GLUE_NAME,Glue,,Pegamento,Colle,Kleber,Colla,Cola,胶水
 ITEM_GLUE_DESC,"Use: Gain +20% Dodge Chance, -1 [img:int] and Confusion 2.",,"Uso: Obtiene +20 % de probabilidad de esquiva, -1 [img:int] y 2 de confusión.","Utilisation&nbsp;: vous gagnez +20&nbsp;% de chances d'esquive, [img:int] -1&nbsp;et Confusion +2.","Benutzen: Erhalte +20&nbsp;% Ausweichchance, -1&nbsp;[img:int] und Verwirrung&nbsp;2.","Uso: Ottieni +20% di probabilità di schivata, -1 all'[img:int] e Confusione 2.","Uso: obtenha +20% de chance de esquiva, -1 de [img:int] e confusão 2.","使用：获得+20% 闪避几率，
 
--1 [img:int] 并获得混乱 2。"
+-1 [img:int] 并获得2层困惑。"
 ITEM_GOLDENEGG_NAME,Golden Egg,,Huevo dorado,Œuf en or,Goldenes Ei,Uovo d'Oro,Ovo Dourado,金蛋
 ITEM_GOLDENEGG_DESC,Find 3-5 extra coins at the end of each battle.,,Encuentra 3-5 monedas extras al final de cada combate.,Vous obtenez 3&nbsp;à 5&nbsp;pièces bonus à la fin de chaque combat.,Finde am Ende jedes Kampfes 3&nbsp;– 5 zusätzliche Münzen.,Trovi 3-5 monete aggiuntive alla fine di ogni battaglia.,Encontre 3-5 moedas adicionais no final de cada batalha.,"每场战斗结束时额外获得3-5枚金币。
 "
@@ -2166,7 +2166,7 @@ Você pode causar dano a unidades congeladas.","你的普通攻击会造成迟�
 并且有 +10% 几率冻结。
 你可以对冻结单位造成伤害。"
 ITEM_STEVENTRINKET2_NAME,Steven,,Steven,Steven,Steven,Steven,Steven,史蒂文
-ITEM_STEVENTRINKET2_DESC,Your basic attack inflicts Confusion.,,El ataque básico inflige confusión.,Votre attaque de base inflige Confusion.,Dein Grundangriff verursacht Verwirrung.,Il tuo attacco base infligge Confusione.,Seu ataque básico aplica confusão.,你的普通攻击会造成混乱。
+ITEM_STEVENTRINKET2_DESC,Your basic attack inflicts Confusion.,,El ataque básico inflige confusión.,Votre attaque de base inflige Confusion.,Dein Grundangriff verursacht Verwirrung.,Il tuo attacco base infligge Confusione.,Seu ataque básico aplica confusão.,你的普通攻击会造成困惑。
 ITEM_STICKMAN_NAME,Stickman,,Monigote,Bonhomme bâton,Astfigur,Stickman,Boneco de Palitinho,火柴人
 ITEM_STICKMAN_DESC,Gain All Stats Up when you deal damage to a party member.,,Obtiene aumento total al infligir daño a un miembro del grupo.,Hausse de stats quand vous infligez des dégâts à un membre de l'équipe.,"Erhalte einen Bonus auf alle Attribute, wenn du Schaden bei einem Gruppenmitglied verursachst.",Ottieni Aumento delle Statistiche quando infliggi danno a un membro del gruppo.,Obtenha todos os atributos aumentados ao causar dano a um membro da sua equipe.,"当你对队友造成伤害时，
 获得全属性提升。"
@@ -3988,9 +3988,9 @@ Los familiares generados infligen confusión.","Inflige Confusion +2&nbsp;aux un
 Les familiers que vous invoquez infligent Confusion.","Verursache Verwirrung&nbsp;2 bei Einheiten, die dich berühren oder angreifen.
 Begleiter, die du rufst, verursachen Verwirrung.","Infliggi Confusione 2 alle unità che ti toccano o ti attaccano.
 I famigli che generi infliggono Confusione.","Aplique confusão 2 em unidades que atacarem ou entrarem em contato com você.
-Familiares gerados por você aplicam confusão.","对接触或攻击你的单位施加2层混乱。
+Familiares gerados por você aplicam confusão.","对接触或攻击你的单位施加2层困惑。
 
-你召唤的魔宠会施加混乱。"
+你召唤的魔宠会施加困惑。"
 ARMOR_GREENMANMASK_NAME,Greenman Mask,,Máscara del hombre verde,Masque sylvestre,Grüner Mann-Maske,Maschera da Uomo Selvatico,Máscara Verde,绿人面具
 ARMOR_GREENMANMASK_DESC,"+3 Brace while standing in tall grass.
 +3 Mana Regen while standing in water.",,"+3 de refuerzo en la hierba alta.
@@ -4879,7 +4879,7 @@ SETBONUS_PROWLER_DESC,Backstabs are always critical.,,Los ataques por la espalda
 ,,,,,,,,
 ARMOR_TINFOILHAT_NAME,Tinfoil Hat,,Gorro de papel de aluminio,Chapeau en papier d'alu,Aluhut,Cappello di Stagnola,Chapéu de Papel Alumínio,锡箔帽
 ARMOR_TINFOILHAT_DESC,"You are immune to Charm, Madness, Fear and Confusion.",,"Es inmune al embrujo, la locura, el miedo y la confusión.","Immunité à l'Envoûtement, la Folie, la Peur et la Confusion.","Du bist immun gegen Charme, Wahnsinn, Angst und Verwirrung.","Sei immune a Fascino, Follia, Paura e Confusione.","Você é imune contra feitiço, insanidade, medo e confusão.","你免疫魅惑、疯狂、
-恐惧和混乱。"
+恐惧和困惑。"
 ARMOR_MYSTICEYE_NAME,Mystic Eye,,Ojo místico,Œil mystique,Mystisches Auge,Occhio Mistico,Olho Místico,神秘之眼
 ARMOR_MYSTICEYE_DESC,+25% chance to reflect projectiles. Your tile-targeted spells have +2 range.,,+25 % de probabilidad de devolver los proyectiles. Los hechizos que pueden marcar casillas como objetivo tienen +2 de alcance.,Chances de renvoyer les projectiles +25&nbsp;%. Vos sorts ciblant une case gagnent Portée +2.,"+25&nbsp;% Wahrscheinlichkeit, Geschosse zu reflektieren. Deine Zauber, die auf ein Einzelfeld zielen, haben +2&nbsp;Reichweite.",+25% di probabilità di riflettere i proiettili. Gli incantesimi che prendono di mira le caselle hanno +2 al raggio d'azione.,+25% de chance de refletir projéteis. Seus encantamentos voltados para espaços possuem +2 de alcance.,"+25%几率反弹投射物。
 你的地格目标法术射程增加2格。
@@ -5375,7 +5375,7 @@ ARMOR_ANGRYWORM_NAME,Angry Worm,,Lombriz furiosa,Ver enragé,Wütender Wurm,Verm
 ARMOR_ANGRYWORM_DESC,Your basic attack hits an extra time for 1 damage.,,El ataque básico golpea otra vez con 1 de daño.,"Votre attaque de base frappe une fois de plus, infligeant 1&nbsp;dégât.",Dein Grundangriff trifft ein zusätzliches Mal mit 1&nbsp;Schaden.,Il tuo attacco base colpisce una volta in più e infligge 1 danno.,Seu ataque básico golpeia uma vez adicional para causar 1 de dano.,"你的普通攻击额外造成一次1点伤害。
 "
 ARMOR_BEANPARASITE_NAME,Bean Parasite,,Alubia parásita,Parasite haricot,Bohnenparasit,Parassita dei Fagioli,Parasita de Feijão,豆类寄生虫
-ARMOR_BEANPARASITE_DESC,Confusion 99.,,99 de confusión.,Confusion 99.,Verwirrung&nbsp;99.,Confusione 99.,Confusão 99.,混乱 99。
+ARMOR_BEANPARASITE_DESC,Confusion 99.,,99 de confusión.,Confusion 99.,Verwirrung&nbsp;99.,Confusione 99.,Confusão 99.,困惑 99。
 ARMOR_BEEPIS_NAME,Beepis,,Beepis,Bipis,Beepis,Beepis,Beepis,比比斯
 ARMOR_BEEPIS_DESC,"Your passives are duplicated during battle.
 Your spells cost +2 mana and can only be used once per turn.",,"Sus pasivas se duplican en combate.
@@ -5505,7 +5505,7 @@ Cure 12 PV no final de cada batalha.","每场战斗开始时对首领和小首�
 每场战斗结束时治疗 +12 生命值。
 "
 ITEM_EUHAPLORCHISCALIFORNIENSIS_NAME,Euhaplorchis Californiensis,,Euhaplorchis californiensis,Euhaplorchis californiensis,Euhaplorchis Californiensis,Euhaplorchis Californiensis,Euhaplorchis Californiensis,加利福尼亚泡虫
-ITEM_EUHAPLORCHISCALIFORNIENSIS_DESC,Start with Confusion 3.,,Empieza con 3 de confusión.,Vous débutez avec Confusion +3.,Beginne jeden Kampf mit Verwirrung&nbsp;3.,Inizi con Confusione 3.,Inicie com confusão 3.,开始时带有混乱 3。
+ITEM_EUHAPLORCHISCALIFORNIENSIS_DESC,Start with Confusion 3.,,Empieza con 3 de confusión.,Vous débutez avec Confusion +3.,Beginne jeden Kampf mit Verwirrung&nbsp;3.,Inizi con Confusione 3.,Inicie com confusão 3.,开始时带有3层困惑。
 ITEM_PAROUSWORM_NAME,Parous Worm,,Lombriz parturienta,Ver fécond,Parasitärer Wurm,Verme Paro,Verme Parasita,种虫
 ITEM_PAROUSWORM_DESC,66% chance to find a random parasite at the end of each battle.,,66% de probabilidad de encontrar un parásito al azar al final de cada combate.,66&nbsp;% de chances de trouver un parasite aléatoire à la fin de chaque combat.,66%ige Wahrscheinlichkeit am Ende jedes Kampfes einen zufälligen Parasiten zu finden.,66% di probabilità di trovare un parassita casuale alla fine di ogni battaglia.,66% de chance de encontrar um parasita aleatório no final de cada batalha.,"每场战斗结束时有 66% 几
 率找
@@ -5848,7 +5848,7 @@ Uso: cause 5 de dano com roubo de vida, aplique queimadura 5 e remova todos os f
 ITEM_BUBBLEBOY_FIXED_NAME,Bubbles,,Burbujas,Bulles,Bläschen,Bolle,Bolhas,气泡
 ITEM_BUBBLEBOY_FIXED_DESC,Use: Throw a bubble with Wind and Water Element that inflicts Confusion.,,Uso: Lanza una burbuja con los elementos de viento y agua que inflige confusión.,Utilisation&nbsp;: lance une bulle de vent et d'eau qui inflige Confusion.,"Benutzen: Wirf eine Wind-/Wasserblase, die Verwirrung verursacht.",Usa: Lanci una bolla con elementi Vento e Acqua che infligge Confusione.,Uso: lance uma bolha do elemento vento e água que aplica confusão.,"使用：
 投掷带有风与水元素的气泡，
-造成混乱效果。"
+造成困惑效果。"
 ITEM_CRYOGENICTIMECHAMBER_EMPTY_NAME,Cryogenic Time Chamber,,Cámara temporal criogénica,Cryocapsule temporelle,Kryogene Zeitkammer,Camera del Tempo Criogenica,Câmara de Tempo Criogênico,低温时间室
 ITEM_CRYOGENICTIMECHAMBER_EMPTY_DESC,"Put the Throbbing King's heart inside it.
 All enemy bodies revive to 30% health at the end of each round (except bosses). Find a random pill at the end of each battle.",,"Hay que meter el corazón del Rey Palpitante dentro.

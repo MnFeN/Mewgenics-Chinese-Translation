@@ -126,7 +126,7 @@ KEYWORD_PROBED_DESC,It's being controlled! Attack it to break the probe!,,¡Cont
 攻击它以破坏侦查！"
 KEYWORD_PROBED_DESC_STACKLESS,Behaves as if it's on your team. Attacks from allies will break the probe.,,Se comporta como si fuera del grupo. Los ataques aliados destrozarán la sonda.,Se comporte comme s'il était dans votre équipe. Les attaques des alliés détruiront la sonde.,"Einheit benimmt sich, als wäre sie auf deiner Seite. Angriffe von Verbündeten zerstören die Sonde.",Si comporta come se facesse parte della tua squadra. Gli attacchi degli alleati romperanno la sonda.,Comporta-se como se estivesse na sua equipe. Ataques de aliados interrompem a sondagem.,"表现得像是你的队友。
 盟友的攻击会破坏侦查。"
-KEYWORD_CONFUSION_NAME,Confusion,,Confusión,Confusion,Verwirrung,Confusione,Confusão,混乱
+KEYWORD_CONFUSION_NAME,Confusion,,Confusión,Confusion,Verwirrung,Confusione,Confusão,困惑
 KEYWORD_CONFUSION_DESC,"When performing an action, 25% chance to instead hit itself equal to its strength. Lasts {stacks} turns.",,"Al realizar una acción, tiene un 25 % de probabilidad de autogolpearse con su fuerza. Dura {stacks} turnos.","En effectuant une action, 25&nbsp;% de chances de se frapper soi-même. Dure {stacks} tours.","Wenn die Einheit eine Aktion ausführt, besteht eine 25%ige Wahrscheinlichkeit, dass sie sich selbst Schaden in Höhe ihrer Stärke zufügt. Dauert {stacks}&nbsp;Züge.","Quando esegue un'azione, c'è il 25% di probabilità che si autocolpisca con un danno pari alla sua forza. Dura {stacks} turni.","Ao realizar uma ação, possui 25% de chance de golpear a si mesmo de forma equivalente à sua força. Dura {stacks} turnos.","执行动作时，
 有25%概率攻击自身，
 伤害等于其力量，持续 {stacks} 回合。
@@ -370,7 +370,7 @@ KEYWORD_BONUSMOVE_DESC,An extra basic move that is saved across turns if unused.
 "
 KEYWORD_BONUSMOVE_DESC_STACKS,{stacks} extra basic moves that are saved across turns if unused.,,"Hay {stacks} movimientos básicos extras que, de no usarse, se guardan para otro turno.","{stacks} déplacements de base bonus, conservés d'un tour à l'autre s'ils ne sont pas utilisés.","{stacks} zusätzliche Bewegungen, die über Züge hinweg erhalten bleiben, wenn sie nicht genutzt werden.",{stacks} movimenti base aggiuntivi che si conservano tra i turni se non vengono utilizzati.,{stacks} movimentos básicos adicionais que persistem entre turnos se não forem utilizados.,"未使用时可跨回合保存的 {stacks} 次额外基础移动。
 "
-KEYWORD_MUTED_NAME,Muted,,Silencio,Entrave magique,Stumm,Mutismo,Silêncio,禁言
+KEYWORD_MUTED_NAME,Muted,,Silencio,Entrave magique,Stumm,Mutismo,Silêncio,沉默
 KEYWORD_MUTED_DESC,{stacks} of your spells are disabled until {applier} dies.,,Se deshabilitan {stacks} hechizos de esta unidad hasta que {applier} muere.,{stacks} de vos sorts sont désactivés jusqu'à ce que {applier} meure.,"{stacks} deiner Zauber sind deaktiviert, bis {applier} stirbt.",{stacks} dei tuoi incantesimi sono disabilitati finché {applier} non muore.,{stacks} de seus encantamentos são desabilitados até que {applier} morra.,"{applier} 死亡前，
 你的 {stacks} 个法术被禁用。"
 KEYWORD_MUTED_DESC_SINGULAR,One of your spells is disabled until {applier} dies.,,Se deshabilita un hechizo de esta unidad hasta que {applier} muere.,Un de vos sorts est désactivé jusqu'à ce que {applier} meure.,"Einer deiner Zauber ist deaktiviert, bis {applier} stirbt.",Uno dei tuoi incantesimi è disabilitato finché {applier} non muore.,Um de seus encantamentos é desabilitado até que {applier} morra.,"{applier} 死亡前，你的一个法术被禁用。
@@ -483,8 +483,8 @@ KEYWORD_SAFEDOOMED_NAME,Doomed,,Condenación,Damnation,Todesurteil,Condanna,Perd
 KEYWORD_SAFEDOOMED_DESC,"Ticks down at the end of your turn. When it hits 0, Die (without being injured).",,"Se inicia una cuenta atrás al final del turno. Al llegar a 0, muere (sin sufrir lesiones).","Diminue à la fin de votre tour. À 0, meure (sans être blessé).","Zählt am Ende deines Zuges herunter. Stirb, wenn der Timer 0 erreicht (ohne eine Verletzung zu erleiden).","Il valore si riduce alla fine del tuo turno. Quando raggiunge lo 0, muori (senza subire ferite).","Diminui no final de seu turno. Ao chegar a 0, morra (sem sofrer ferimentos).","在你的回合结束时倒计时。
 当倒计时为0时，死亡（不受伤）。
 "
-KEYWORD_SCRAMBLED_NAME,Scrambled,,Revoltijo,Désordre,Durchgemischt,Scompiglio,Embaralhamento,混乱
-KEYWORD_SCRAMBLED_DESC,"Abilities are scrambled, temporarily.",,Las habilidades se mezclan temporalmente unas con otras.,Les compétences sont temporairement altérées.,Fähigkeiten sind vorübergehend durchgemischt.,Le abilità sono temporaneamente scombussolate.,Habilidades são temporariamente embaralhadas.,技能暂时被打乱。
+KEYWORD_SCRAMBLED_NAME,Scrambled,,Revoltijo,Désordre,Durchgemischt,Scompiglio,Embaralhamento,扰乱
+KEYWORD_SCRAMBLED_DESC,"Abilities are scrambled, temporarily.",,Las habilidades se mezclan temporalmente unas con otras.,Les compétences sont temporairement altérées.,Fähigkeiten sind vorübergehend durchgemischt.,Le abilità sono temporaneamente scombussolate.,Habilidades são temporariamente embaralhadas.,技能暂时被扰乱。
 KEYWORD_SERRATED_NAME,Serrated Claws,,Garras serradas,Griffes acérées,Gezackte Klauen,Artigli Seghettati,Garras Serradas,锯齿爪
 KEYWORD_SERRATED_DESC,Basic attack inflicts +{stacks} Bleed.,,El ataque básico inflige +{stacks} de hemorragia.,Votre attaque de base inflige Saignement +{stacks}.,Grundangriffe verursachen +{stacks}&nbsp;Blutung.,L'attacco base infligge +{stacks} Sanguinamento.,Ataques básicos aplicam +{stacks} de sangramento.,基础攻击附加 +{stacks} 流血。
 KEYWORD_SERRATED_DESC_STACKLESS,Basic attack inflicts Bleed.,,El ataque básico inflige hemorragia.,Votre attaque de base inflige Saignement.,Grundangriffe verursachen Blutung.,L'attacco base infligge Sanguinamento.,O ataque básico aplica sangramento.,基础攻击附加流血。

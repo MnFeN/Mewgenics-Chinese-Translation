@@ -241,7 +241,7 @@ Fliegt.","La sua raffica corpo a corpo infligge Confusione.
 Ha un 50% di probabilità di schivare.
 Vola.","Seu ataque corpo-a-corpo de rajada aplica confusão.
 50% de chance de esquiva.
-Voador.","它的近战连击会造成混乱效果。
+Voador.","它的近战连击会造成困惑效果。
 50% 躲避几率。
 飞行。"
 ENEMY_BRAINDRAIN_NAME,Brain Drain,,Chupasesos,Groservo,Hirnsauger,Drenacervello,Dreno de Cérebro,脑力吸取
@@ -1137,10 +1137,10 @@ Recupera PS cuando un enemigo se autoinflige daño con confusión.","Attaquant a
 Se soigne chaque fois qu'un ennemi subit des dégâts à cause de Confusion.","Nahkämpfer, der Verwirrung verursacht und anschließend wegrennt. Einheiten, die ihn berühren, erleiden Verwirrung.
 Heilt sich immer, wenn ein Gegner sich durch Verwirrung selbst verletzt.","Specialista del corpo a corpo che infligge Confusione per poi fuggire. Le unità che vi entrano in contatto ottengono Confusione.
 Cura tutti gli alleati che si auto-infliggono danno a causa di Confusione.","Agressor corpo-a-corpo que aplica confusão e foge. Unidades que entram em contato sofrem confusão.
-Cura-se sempre que um inimigo causa dano a si mesmo com a confusão.","近战攻击者，造成混乱状态，
-然后逃跑。接触该单位的单位会获得混乱状态。
+Cura-se sempre que um inimigo causa dano a si mesmo com a confusão.","近战攻击者，造成困惑状态，
+然后逃跑。接触该单位的单位会获得困惑状态。
 
-每当敌人因混乱状态自我伤害时，
+每当敌人因困惑状态自我伤害时，
 会恢复生命值。"
 ENEMY_WOOLYMAMMOTH_NAME,Wooly Mammoth,,Mamut lanudo,Mammouth laineux,Wollhaarmammut,Mammut Lanoso,Mamute Lanoso,毛象
 ENEMY_WOOLYMAMMOTH_DESC,"Has a melee attack that knocks units into the air, and a dash attack.
@@ -1448,7 +1448,7 @@ Ottiene Velocità alla fine del suo turno.","Ataca tantas vezes quanto possível
 回合结束时获得速度加成。"
 ENEMY_FLESHYMIND_NAME,Fleshy Mind,,Mente carnosa,Génie de chair,Fleischgeist,Mente Carnosa,Mente Cárnea,肉质之心
 ENEMY_FLESHYMIND_DESC,Has a ranged attack that inflicts Muted. Inflicts Confusion on units that attack it.,,Lanza un ataque a distancia que inflige silencio. Inflige confusión a las unidades que la atacan.,Son attaque à distance inflige Entrave magique. Inflige Confusion aux unités qui l'attaquent.,"Hat einen Fernkampfangriff, der Stumm verursacht. Verursacht Verwirrung bei Einheiten, die ihn angreifen.",Possiede un attacco a distanza che infligge Mutismo. Infligge Confusione alle unità che lo attaccano.,Possui um ataque à distância que aplica silêncio. Aplica confusão em unidades que a atacam.,"拥有远程攻击，造成沉默。
-攻击它的单位会被混乱。"
+攻击它的单位会被施加困惑。"
 ENEMY_BUTCHTINK_NAME,Butch & Tink,,Butch y Tink,Butch & Tink,Butch & Tink,Butch & Tink,Butch & Tink,布奇与丁克
 ENEMY_BUTCHTINK_DESC,"Moves 1 tile toward whatever damages them.
 Will dash on their last turn.
@@ -2056,7 +2056,7 @@ Devuelve los proyectiles y hace retroceder a las unidades que entran en contacto
 Renvoie les projectiles et repousse les unités qui la touchent.","Ihr Nahkampfangriff verursacht Durchgemischt.
 Reflektiert Geschosse und stößt Einheiten zurück, die sie berühren.","Il suo attacco corpo a corpo infligge Scompiglio.
 Respinge i proiettili e le unità che vi entrano in contatto.","Seu ataque corpo-a-corpo aplica embaralhamento.
-Reflete projéteis e empurra para trás unidades que entram em contato.","它的近战攻击会造成混乱效果。
+Reflete projéteis e empurra para trás unidades que entram em contato.","它的近战攻击会造成扰乱效果。
 反射投射物并击退接触的单位。"
 ENEMY_ANGELICCAT_NAME,Angelic Cat,,Gato angelical,Chat angélique,Engelskatze,Gatto Angelico,Gato Angelical,天使猫
 ENEMY_ANGELICCAT_DESC,"Has a Holy Wind area attack.
@@ -3224,7 +3224,7 @@ TILE_METALTILE_NAME,Metal Shards Tile,,Casilla de fragmentos de metal,Case d'éc
 TILE_METALTILE_DESC,2 damage to things that step on this.,,2 de daño a todo aquello que esté encima.,Marcher dessus inflige 2&nbsp;dégâts.,2&nbsp;Schaden bei Betreten.,2 di danno per le cose che ci camminano sopra.,2 de dano para qualquer coisa que pise sobre ele.,踩到此处造成2点伤害。
 TILE_GLITCHTILE_NAME,Glitch Tile,,Casilla de anomalía,Case buggée,Verbuggtes Feld,Casella Anomalia,Espaço de Glitch,故障砖
 TILE_GLITCHTILE_DESC,"Scrambles the spells of cats who walk through this, temporarily. Confuses non-cats.",,Altera temporalmente los hechizos de los gatos que la cruzan. Confunde a quienes no son gatos.,Altère temporairement les sorts des chats qui la traversent. Inflige Confusion aux unités non-chats.,"Durchmischt vorübergehend die Zauber von Katzen, die über dieses Feld gehen. Verwirrt nicht-Katzen.","Infligge Scompiglio agli incantesimi dei gatti che ci camminano sopra, temporaneamente. Confonde i non-gatti.",Embaralha temporariamente os encantamentos de gatos que caminham sobre este espaço. Confunde tudo que não for um gato.,"暂时扰乱穿过此处的猫的法术。
-使非猫类混乱。"
+使非猫类困惑。"
 TILE_ROADTILE_NAME,Road Tile,,Casilla de camino,Case de route,Straße,Casella Stradale,Espaço de Estrada,道路砖
 TILE_ROADTILE_DESC,Moving through this tile costs half of a movement.,,Moverse por esta casilla cuesta medio movimiento.,Traverser cette case coûte moitié moins de points de déplacement.,Über dieses Feld zu gehen kostet halb so viel Bewegung.,Attraversare questa casella costa mezzo movimento.,Mover-se por este espaço custa meio movimento.,穿过该砖块消耗半点移动力。
 TILE_ROCKTILE_NAME,Basalt Tile,,Casilla de basalto,Case de basalte,Basalt,Casella in Basalto,Espaço de Basalto,玄武岩砖
