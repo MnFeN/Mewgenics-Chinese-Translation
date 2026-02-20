@@ -1,6 +1,6 @@
 ﻿KEY,en,notes,sp,fr,de,it,pt-br,zh
 //weapons,,,,,,,,
-ITEM_22RIFLE_NAME,.22 Rifle,,Fusil calibre 22,Carabine .22,Kleinkaliber,Fucile .22,Rifle .22,.22步枪
+ITEM_22RIFLE_NAME,.22 Rifle,,Fusil calibre 22,Carabine .22,Kleinkaliber,Fucile .22,Rifle .22,.22 步枪
 ITEM_22RIFLE_DESC,Use: Fire a shot anywhere within your line of sight.,,Uso: Dispara un proyectil a cualquier parte del campo visual.,Utilisation&nbsp;: tire sur n'importe quelle cible dans votre ligne de mire.,Benutzen: Schieße auf ein Ziel in deiner Sichtlinie.,Uso: Spari un colpo in qualsiasi punto entro il tuo campo visivo.,Uso: realize um disparo em qualquer lugar dentro do seu campo de visão.,"使用：向视线内的任意位置射击。"
 ITEM_ALIENBLASTER_NAME,Alien Blaster,,Desintegrador extraterrestre,Flingue extraterrestre,Alienblaster,Blaster Alieno,Blaster Alienígena,外星爆能枪
 ITEM_ALIENBLASTER_DESC,Use: A laser attack. Gains +1 damage for the rest of the battle each time it's used.,,Uso: Lanza un ataque láser. Obtiene +1 de daño durante el resto del combate cada vez que se dispara.,Utilisation&nbsp;: une attaque laser. Dégâts +1&nbsp;à chaque utilisation durant ce combat.,"Benutzen: Ein Laserangriff. Erhält für den Rest des Kampfes jedes Mal +1&nbsp;Schaden, wenn er benutzt wird.",Uso: Un attacco laser. Ottieni +1 al Danno per il resto della battaglia ogni volta che viene utilizzato.,Uso: um ataque a laser. Obtém +1 de dano pelo resto da batalha a cada vez que for usada.,"使用：激光攻击。每次使用后，
@@ -24,7 +24,7 @@ ITEM_AMERICANFLAG_DESC,"Use: Force a unit to attack one of its enemies.
 [s:.7](Einmal pro Kampf verwendbar.)[/s]","Uso: Costringi un'unità ad attaccare uno dei suoi nemici.
 [s:.7](Utilizzabile una volta per battaglia.)[/s]","Uso: force uma unidade a atacar um de seus inimigos.
 [s:.7](Um uso por batalha.)[/s]","使用：强迫一个单位
-攻击其一名敌人。
+攻击它的一名敌人。
 [s:.7](每场战斗限用一次。)[/s]"
 ITEM_ANARCHISTCOOKBOOK_NAME,Anarchist Cookbook,,Recetario anarquista,B.a.-ba de l'anarchiste,Anarchist Cookbook,Ricettario Anarchico,Manual Anarquista,无政府主义食谱
 ITEM_ANARCHISTCOOKBOOK_DESC,Use: Summon 3-5 grenades that explode at the end of the round or when destroyed.,,Uso: Invoca 3-5 granadas que estallan al final de la ronda o cuando se destruyen.,Utilisation&nbsp;: fait apparaître 3&nbsp;à 5&nbsp;grenades qui explosent en fin de manche ou en étant détruites.,"Benutzen: Lasse 3&nbsp;– 5 Granaten erscheinen, die am Ende der Runde, oder wenn sie zerstört werden, explodieren.",Uso: Evochi 3-5 granate che esplodono alla fine del round o quando vengono distrutte.,Uso: invoque 3-5 granadas que explodem no final da rodada ou ao serem destruídas.,"使用：召唤 3-5 枚手榴弹，
@@ -1152,7 +1152,7 @@ ITEM_SPITBALL_DESC,Use: A ranged attack that inflicts Slow.,,Uso: Lanza un ataqu
 ITEM_SPRINGBOARD_NAME,Spring Board,,Trampolín,Tremplin,Sprungbrett,Trampolino a Molla,Prancha de Mola,跳板
 ITEM_SPRINGBOARD_DESC,Use: A melee attack that lobs a unit back 3 tiles.,,Uso: Lanza un ataque cuerpo a cuerpo que hace retroceder 3 casillas a una unidad.,Utilisation&nbsp;: une attaque au corps-à-corps qui inflige Recul +3&nbsp;à une unité.,"Benutzen: Ein Nahkampfangriff, der Einheiten 3&nbsp;Felder zurückschleudert.",Uso: Un attacco corpo a corpo che scaglia un'unità indietro di 3 caselle.,Uso: um ataque corpo-a-corpo que lança uma unidade em arco para trás por 3 espaços.,"使用：一次近战攻击，
 将单位向后抛射 3 格。"
-ITEM_STACY100_NAME,Stacy 100,,Stacy 100,Stacy 100,Stacy 100,Stacy 100,Stacy 100,斯泰西100
+ITEM_STACY100_NAME,Stacy 100,,Stacy 100,Stacy 100,Stacy 100,Stacy 100,Stacy 100,斯泰西 100
 ITEM_STACY100_DESC,"Use: Spawn a Stacy.
 [s:.7](Usable once per battle.)[/s]",,"Uso: Genera una Stacy.
 [s:.7](Disponible una vez por combate).[/s]","Utilisation&nbsp;: invoque une Stacy.
@@ -1340,7 +1340,7 @@ ITEM_PROBE_DESC,Use: Inflict Charm 3. Can only hit from behind.,,Uso: Inflige 3 
 只能从背后命中。"
 ,,,,,,,,
 //trinkets,,,,,,,,
-ITEM_AAABATTERY_NAME,AAA Battery,,Pila AAA,Pile AAA,AAA-Batterie,Batteria AAA,Pilha AAA,7号电池
+ITEM_AAABATTERY_NAME,AAA Battery,,Pila AAA,Pile AAA,AAA-Batterie,Batteria AAA,Pilha AAA,7 号电池
 ITEM_AAABATTERY_DESC,"Every time you cast 3 spells, gain +3 Charge.",,"Cada vez que esta unidad lanza 3 hechizos, obtiene +3 de carga.","Chaque fois que vous lancez 3&nbsp;sorts, vous gagnez Charge +3.","Erhalte jedes Mal +3&nbsp;Ladung, wenn du 3&nbsp;Zauber wirkst.","Ogni volta che lanci 3 incantesimi, ottieni +3 Carica.","A cada 3 encantamentos que você lançar, obtenha +3 cargas.","每当你施放 3 次法术，
 获得 +3 充能。"
 ITEM_ANGELWING_NAME,Angel Wing,,Ala angelical,Aile angélique,Engelsflügel,Ala d'Angelo,Asa de Anjo,天使之翼
@@ -1793,7 +1793,7 @@ L'ombra svanisce alla fine del turno.","Uso: mova-se 3 espaços, deixando para t
 A sombra desaparece no final do turno.","使用：移动 3 格，
 在身后留下一个模仿你基础攻击的暗影分身。
 暗影分身在回合结束时消散。"
-ITEM_NATURAL20_NAME,Natural 20,,Natural 20,Lancer critique,Natürliche 20,20 Naturale,20 Natural,自然20
+ITEM_NATURAL20_NAME,Natural 20,,Natural 20,Lancer critique,Natürliche 20,20 Naturale,20 Natural,自然 20
 ITEM_NATURAL20_DESC,"Your weapons have +50% Crit Chance.
 Your basic attack has +10% Crit Chance.",,"Las armas tienen +50 % de probabilidad de crítico.
 El ataque básico tiene +10 % de probabilidad de crítico.","Vos armes ont +50&nbsp;% de chances de coup critique.
@@ -2177,7 +2177,7 @@ ITEM_DRUIDSEAL_NAME,Druid Seal,,Sello de druida,Sceau du druide,Druidensiegel,Si
 ITEM_DRUIDSEAL_DESC,Use: Permanently turn into a Druid.,,Uso: Se transforma para siempre en druida.,Utilisation&nbsp;: vous change en druide de façon permanente.,Benutzen: Werde dauerhaft zu einem Druiden.,Uso: Ti trasformi permanentemente in un Druido.,Uso: torne-se um druida permanentemente.,使用：永久变为德鲁伊。
 ITEM_ENEMA_NAME,Enema,,Enema,Lavement,Einlauf,Clistere,Enema,灌肠剂
 ITEM_ENEMA_DESC,Use: Cleanse all buffs and debuffs.,,Uso: Elimina todas las ventajas y desventajas.,Utilisation&nbsp;: dissipe tous les bonus et malus.,Benutzen: Reinige alle Stärkungen und Schwächungen.,Uso: Rimuovi tutti i bonus e i malus.,Uso: purifique todos os fortalecimentos ou enfraquecimentos.,"使用：驱散所有增益和减益效果。"
-ITEM_EXPERIMENTX_NAME,Experiment X,,Experimento X,Expérience X,Experiment X,Esperimento X,Experimento X,实验体X
+ITEM_EXPERIMENTX_NAME,Experiment X,,Experimento X,Expérience X,Experiment X,Esperimento X,Experimento X,实验体 X
 ITEM_EXPERIMENTX_DESC,Use: ???,,Uso: ¿?,Utilisation&nbsp;:&nbsp;???,Benutzen: ???,Uso: ???,Uso: ???,使用：？？？
 ITEM_EYEBALL_NAME,Eyeball,,Ojo,Globe oculaire,Augapfel,Bulbo Oculare,Globo Ocular,眼球
 ITEM_EYEBALL_DESC,Use: Heal {aux} HP.,,Uso: Devuelve {aux} PS.,Utilisation&nbsp;: rend {aux} PV.,Benutzen: Heile {aux}&nbsp;LP.,Uso: Recuperi {aux} PS.,Uso: cure {aux} PV.,使用：恢复 {aux} 点生命值。
@@ -3411,7 +3411,7 @@ Obtiene +2 [img:con] para siempre y recupera 10 PS al romperse.","Épines +3, Ca
 Erhalte dauerhaft +2&nbsp;[img:con] und heile 10&nbsp;LP, wenn dieser Gegenstand kaputtgeht.","+3 Spine, Friabile.
 Ottieni +2 alla [img:con] permanentemente e rigeneri 10 PS quando si rompe.","+3 de espinhos. Quebradiço.
 Obtenha +2 de [img:con] permanentemente e cure 10 PV quando este item se quebrar.","+3 荆棘，脆弱。
-破碎时获得永久+2 [img:con] 并恢复10生命值。"
+破碎时获得永久 +2 [img:con] 并恢复 10 生命值。"
 ARMOR_CACTUSHAT_NAME,Cactus Hat,,Sombrero de cactus,Chapeau cactus,Kaktushut,Cappello del Cactus,Chapéu de Cacto,仙人掌帽
 ARMOR_CACTUSHAT_DESC,"+3 Thorns, Brittle.
 Gain +2 [img:con] permanently and heal 10 HP when this breaks.",,"+3 de espinas, endeblez.
@@ -3420,7 +3420,7 @@ Obtiene +2 [img:con] para siempre y recupera 10 PS al romperse.","Épines +3, Ca
 Erhalte dauerhaft +2&nbsp;[img:con] und heile 10&nbsp;LP, wenn dieser Gegenstand kaputtgeht.","+3 Spine, Friabile.
 Ottieni +2 alla [img:con] permanentemente e rigeneri 10 PS quando si rompe.","+3 de espinhos. Quebradiço.
 Obtenha +2 de [img:con] permanentemente e cure 10 PV quando este item se quebrar.","+3 荆棘，脆弱。
-破碎时获得永久+2 [img:con] 并恢复10生命值。"
+破碎时获得永久 +2 [img:con] 并恢复 10 生命值。"
 ARMOR_CACTUSNECKLACE_NAME,Cactus Necklace,,Gargantilla de cactus,Collier cactus,Kaktushalskette,Collana del Cactus,Colar de Cacto,仙人掌项链
 ARMOR_CACTUSNECKLACE_DESC,"+3 Thorns, Brittle.
 Gain +2 [img:con] permanently and heal 10 HP when this breaks.",,"+3 de espinas, endeblez.
@@ -3429,7 +3429,7 @@ Obtiene +2 [img:con] para siempre y recupera 10 PS al romperse.","Épines +3, Ca
 Erhalte dauerhaft +2&nbsp;[img:con] und heile 10&nbsp;LP, wenn dieser Gegenstand kaputtgeht.","+3 Spine, Friabile.
 Ottieni +2 alla [img:con] permanentemente e rigeneri 10 PS quando si rompe.","+3 de espinhos. Quebradiço.
 Obtenha +2 de [img:con] permanentemente e cure 10 PV quando este item se quebrar.","+3 荆棘，脆弱。
-破碎时获得永久+2 [img:con] 并恢复10生命值。"
+破碎时获得永久 +2 [img:con] 并恢复 10 生命值。"
 SETBONUS_CACTUS_NAME,Cactus Set Bonus!,,¡Bonificación de conjunto de cactus!,Bonus d'ensemble&nbsp;: cactus&nbsp;!,Setbonus: Kaktus!,Bonus Set: Cactus!,Bônus de Conjunto de Cacto!,仙人掌套装加成！
 SETBONUS_CACTUS_DESC,"+2 Thorns.
 Whenever any Cactus armor breaks, increase all your stats by 1, permanently.",,"+2 de espinas.
@@ -5302,10 +5302,10 @@ Seus encantamentos custam -2 de mana. Sempre que você ou outro gato lançar um 
 你的法术消耗减少 2 点法力。
 每次你或其他猫咪施放法术时，
 该法术在剩余战斗中会变得错乱。"
-ARMOR_ULTRAVISION3000_NAME,Ultra Vision 3000,,Ultravisión 3000,Ultra Vision 3&nbsp;000,Ultravision 3000,Ultra Vision 3000,Ultra Visão 3000,超视觉3000
+ARMOR_ULTRAVISION3000_NAME,Ultra Vision 3000,,Ultravisión 3000,Ultra Vision 3&nbsp;000,Ultravision 3000,Ultra Vision 3000,Ultra Visão 3000,超视觉 3000
 ARMOR_ULTRAVISION3000_DESC,Side Quest Item. Events are harder. All normal events trigger 2 extra events.,,Objeto de misión secundaria. Los eventos son más difíciles. Todos los eventos normales activan 2 eventos extras.,Objet de quête secondaire. La difficulté des événements se corse. Les événements normaux déclenchent 2&nbsp;événements bonus.,Nebenquestgegenstand. Ereignisse sind schwerer. Alle normalen Ereignisse lösen 2&nbsp;zusätzliche Ereignisse aus.,Oggetto per missione secondaria. Gli eventi sono più difficili. Tutti gli eventi normali attivano 2 eventi aggiuntivi.,Item de missão secundária. Eventos são mais difíceis. Todos os eventos normais ativam 2 eventos adicionais.,"支线任务物品。事件变得更难。
 所有普通事件会触发 2 个额外事件。"
-ARMOR_ULTRAVISION3000_FIXED_NAME,Ultra Vision 3000 v1.1,,Ultravisión 3000 v1.1,Ultra Vision 3&nbsp;000&nbsp;v1.1,Ultravision 3000 v1.1,Ultra Vision 3000 v1.1,Ultra Visão 3000 v1.1,超视觉3000 v1.1
+ARMOR_ULTRAVISION3000_FIXED_NAME,Ultra Vision 3000 v1.1,,Ultravisión 3000 v1.1,Ultra Vision 3&nbsp;000&nbsp;v1.1,Ultravision 3000 v1.1,Ultra Vision 3000 v1.1,Ultra Visão 3000 v1.1,超视觉 3000 v1.1
 ARMOR_ULTRAVISION3000_FIXED_DESC,Your basic attack inflicts Marked.,,El ataque básico inflige punto de mira.,Votre attaque de base inflige Marquage.,Dein Grundangriff verursacht Markiert.,Il tuo attacco base infligge Marchiato.,Seu ataque básico aplica marcação.,你的基础攻击施加标记效果。
 ITEM_AIRHORN_NAME,Air Horn,,Sirena,Corne de brume,Lufthorn,Sirena,Buzina,气喇叭
 ITEM_AIRHORN_DESC,Side Quest Item. You are Ambushed every battle. Use to make some noise!,,"Objeto de misión secundaria. Esta unidad sufre un ataque por sorpresa en cada combate. Si la usa, ¡hará mucho ruido!",Objet de quête secondaire. Vous êtes pris en embuscade à chaque combat. Utilisez-la pour faire du boucan&nbsp;!,"Nebenquestgegenstand. Du wirst in jedem Kampf überrascht. Benutz es, um ordentlich Lärm zu machen!",Oggetto per missione secondaria. Ti viene tesa un'imboscata in ogni battaglia. Usala per fare rumore!,Item de missão secundária. Você sofre emboscadas em todas as batalhas. Use-a para criar o caos!,"支线任务物品。
